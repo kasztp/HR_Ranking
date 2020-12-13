@@ -13,8 +13,8 @@ data.drop(
     columns=['Key', 'Postcode', 'Street', 'Office', 'TaxID'],
     inplace=True
     )
-data.sort_values(by=['Rating', 'City', 'Name'], inplace=True, ascending=[False, True, True])
-data.columns = ['Név', 'Város', 'Értékelés']
+data.sort_values(by=['Rating', 'Total Ratings', 'City', 'Name'], inplace=True, ascending=[False, False, True, True])
+data.columns = ['Név', 'Város', 'Értékelés', 'Google Értékelések']
 
 
 app = Flask(__name__)
