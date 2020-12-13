@@ -2,7 +2,7 @@
 
 Ranking of Hungarian registered Recruitment Agencies based on Google Maps Ratings (Idea by Ferenc Túri).
 
-[Demo](talentstackhu.eu.pythonanywhere.com)
+[Demo](https://talentstackhu.eu.pythonanywhere.com)
 
 ## Authors
 
