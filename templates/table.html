@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <input class="form-control" id="myInput" type="text" placeholder="Keresés..">
+    <div>
+    <table class="table-dark table-striped table-responsive table-hover w-auto">
+        <thead>
+    <tr>
+        {% for col in column_names %}
+        <th width="33%">{{col}}</th>
+        {% endfor %}
+    </tr>
+    </thead>
+        <tbody id="myTable">
+    {% for row in row_data %}
+    <tr>
+        {% for col, row_ in zip(column_names, row) %}
+        {% if col == link_column %}
+        <td>
+            <a class="btn btn-outline-secondary" href={{row_}} target="_blank" role="button">{{row_}}</a>
+        </td>
+        {% else %}
+        <td>{{row_}}</td>
+        {% endif %}
+        {% endfor %}
+    </tr>
+    {% endfor %}
+       </tbody>
+    </table>
+    </div>
+
+{% endblock %}
+

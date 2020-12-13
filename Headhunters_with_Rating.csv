@@ -1,0 +1,716 @@
+Key,Name,Postcode,City,Street,Office,TaxID,Rating
+0,Budapest Esély Nonprofit Kft.,1084,Budapest,Őr utca 5-7.,"1084 Budapest, Őr utca 5-7.",18228012,4.2
+1,MANPOWER MUNKAERŐ- SZERVEZÉSI Kft.,1133,Budapest,Váci út 76.,"1133 Budapest, Váci út 76.",10407745,2.9
+2,Motiváció Mozgássérülteket Segítő Alapítvány,1055,Budapest,Honvéd u. 22.,"1055 Budapest, Honvéd u. 22.",19667946,4.6
+3,DUNA RAPSZÓDIA Kereskedelmi és Szolgáltató Kft,1095,Budapest,Lechner Ödön fasor 1.,"1095 Budapest, Lechner Ödön fasor 1.",25050631,4.2
+4,SZELEKTOR-DR GAZDAG Miklós Vezetési Tanácsadó Irodája Kft.,1161,Budapest,Mária u. 17.,"1056 Budapest, Molnár u. 10. II612.",10899904,0
+5,GRAFTON RECRUIMENT Személyzeti Tanácsadó Kft,1053,Budapest,Károlyi utca 12.,"1053 Budapest, Károlyi  utca 12.",12149391,3.8
+6,ahc international személyzeti  tanácsadó Kft.,1065,Budapest,Bajcsy Zs. út 53.,"1065 Budapest, Bajcsy Zs. út 53.",10869938,4.7
+7,ADECCO Személyzeti Közvetítő Kft.,1134,Budapest,Váci út 45. G. ép. 7. em.,"1134 Budapest, Váci út 45. G. ép. 7. em.",10443314,3
+8,Personnel Leasing Kft.,1065,Budapest,Bajcsy-Zsilinszky út 65. II/3.,"1065 Budapest, Bajcsy- Zsilinszky út 65. II/3.",10965663,0
+9,Gastro-Guard Szolgáltató Munkaközvetítő és Kölcsönző Bt.,1082,Budapest,Corvin sétány 1/B.I.17.,"1082 Budapest, Corvin sétány 1/B.I.17.",28441874,0
+10,INVEST MAN Személyzeti Tanácsadó Betéti Társaság,1155,Budapest,Szentkorona útja 2. 9/25.,"1155 Budapest, szentkorona u. 2. 9/25.",28704607,3
+11,SELECT Humánerőforrás Kft.,1093,Budapest,Lónyay u. 34.,"1093 Budapest, Lónyay u. 34.",10953150,0
+12,HMS Hajózási Szolgáltató Kft.,1211,Budapest,Weis Manfréd út 5-7.,"1211 Budapest, Weis Manfréd út 5-7.",10342756,5
+13,CREW-AGENCY Kereskedelmi és Személyzeti Ügynökség Kft.,1118,Budapest,Villányi út 101. Mfsz. 1.,"1118 Budapest, Villányi út 101. Mfsz. 1.",12896086,4.1
+14,Target Hungária Vállalkozási Tanácsadó Kft.,1024,Budapest,Lövőház utca 30. 1. em. 2.,"1024 Budapest, Lövőház utca 30. 1. em. 2.",10904479,0
+15,Dr. Pendl & Dr. Piswanger International Vezetői Tanácsadó Kft.,1011,Budapest,Corvin tér 10. 2. em. 82.,"1011 Budapest, Corvin tér 10. 2. em. 82.",10515031,5
+16,Pacific Személyzeti Tanácsadó Kft.,1148,Budapest,Kerepesi út 52.,"1148 Budapest, Kerepesi út 52.",12189641,3
+17,Salva Vita Alapítvány,1073,Budapest,Erzsébet krt. 13. III.3.,"1073 Budapest, Erzsébet krt. 13. III. 3.",18057409,0
+18,HUMÁN LABOR Munkaerőszolgáltató Kft.,1123,Budapest,Alkotás u. 11. fszt. 5.,"1052 Budapest, Károly krt. 24.",12260407,0
+19,Focus Consulting Személyzeti Tanácsadó és Szolg. Kft.,1138,Budapest,Váci út 135-139. B. ép. 6. em.,"1138 Budapest, Váci út 135-139. B. ép. 6. em.",12342240,4.3
+20,EGON ZEHNDER INTERNATIONAL Vezetői Tanácsadó Kft.,1055,Budapest,Honvéd u.20/a.,"1055 Budapest, Honvéd utca 20/a",11973034,4.6
+21,Transearch  Hungary Vezetői Tanácsadó Kft.,1015,Budapest,Toldy F. u. 17.,"1015 Budapest, Toldy F. u. 17.",12395925,0
+22,INTER JOB Vezetői Tanácsadó Kft.,1055,Budapest,Bihari J. u. 15. 1.em.6.,"1055 Budapest, Bihari J. u. 15.",12538911,0
+23,Jobsgarden  Személyzeti Tanácsadó Kft.,1037,Budapest,Montevideo u. 16/b.,"1037 Budapest, Montevideo u. 16/b.",12689488,4.3
+24,JOB Személyzeti Tanácsadó Kft.,1094,Budapest,Angyal u. 24.,"1094 Budapest, Angyal u. 24.",12233575,4.2
+25,GAMAX Informatikai és Munkaerő- kölcsönző Kft.,1114,Budapest,Bartók Béla út 15/d .II/18.,"1114 Budapest, Bartók Béla út 15/d. II/18.",10383571,4.3
+26,Your Profile Személyzeti Tanácsadó Kft.,1071,Budapest,Damjanich utca 9. 3. em. 2.,"1071 Budapest, Damjanich utca 9. 3. em. 2.",12580602,0
+27,BOGÁT & BONÓ Kereskedelmi és Szolgáltató Kft.,1222,Budapest,Komáromi út 82.,"1222 Budapest, Komáromi út 82.",12527265,0
+28,SHANNON CONSULTING  Tanácsadó és Szolgáltató Kft.,1125,Budapest,Tusnádi u. 25. mfsz. 5.,"1125 Budapest, Tusnádi u. 25. mfsz. 5.",11998628,0
+29,KORN/FERRY International Budapest Személyi Tanácsadói Szolgáltató Kft.,1022,Budapest,Bimbó út 77.,"1022 Budapest, Bimbó u. 77.",10515172,4.7
+30,Simonyi & Tóth Személyzeti Tanácsadó Kft.,1015,Budapest,Szabó Ilonka u. 71/A,"1011 Budapest, Szabó Ilonka u. 71/A. fsz. 1.",12319051,0
+31,R-CONTACT Kereskedelmi és Szolgáltató Kft.,1037,Budapest,Szépvölgyi út 49-61.C/5,"1037 Budapest, Szépvölgyi út 49- 61. C/5.",12972885,0
+32,Career Solutions Tanácsadó Kft.,1036,Budapest,Lajos u. 74-76.,"1036 Budapest, lajos u. 74-76.",12262124,4
+33,Tölgyesi Management Consulting Vezetői Tanácsadó Kft.,1025,Budapest,Zöldlomb u. 24.,"1025 Budapest, Zöldlomb u. 24.",13107705,0
+34,HILL-man Személyzeti és Tanácsadó Kft.,1027,Budapest,Szász Károly u. 2.,"1027 Budapest, Szász Károly u. 2.",12917886,0
+35,EastEuroCo Vezetési Tanácsadó Kft.,1024,Budapest,Keleti K. u. 13/A.II/6.,"1024 Budapest, Keleti Károly u. 13/a",10834060,5
+36,CCUSA Magyarország Csereprogram- Közvetítő Kft.,1072,Budapest,Rákóczi út 8/B. 3. em. 9.,"1072 Budapest, rákóczi út 8/B. 3.em.8.",13229544,4.5
+37,Randstad Hungary Személyzeti Közvetítő és Szolgáltató Kft.,1024,Budapest,Lövőház utca 39. 2. em.,"1024 Budapest, Lövőház utca 39. 2. em.",13321990,4
+38,Budapesti Műszaki és Gazdaságtudományi Egyetem Hallgatói Szolgáltatási Igazgatóság,1111,Budapest,Műegyetem rkp. 7-9. R. ép. II. em.,"1111 Budapest, Műegyetem rkp. 7-9. R. ép. II. em.",15308799,4.6
+39,Human Pro Tanácsadó Kft.,1036,Budapest,Lajos utca 118-120. A. lház 3. em. 5.,"1036 Budapest, Lajos utca 118- 120. A. lház 3. em. 5.",13337579,3.5
+40,MP Solutions Tanácsadó Kft.,1088,Budapest,Bródy Sándor u. 2.2. 8/B.,"1088 Budapest, Bródy Sándor u. 2.2.8/B.",14659906,4.2
+41,HILL International Kft.,1027,Budapest,Szász Károly u. 2-4.,"1027 Budapest, Szász Károly u. 2 4.",10273489,4.1
+42,BEST-WORK Oktató és Szolgáltató Kft.,1225,Budapest,Nagytétényi út 233.,1073 Bp. Erzsébet krt. 41. 1/5.,13361350,4.6
+43,Kelly Services Hungary Személyzeti Szolgáltató Kft.,1085,Budapest,"Kálvin tér 12, Kálvin Center, Múzeum szárny 5. em.","1085 Budapest, Kálvin tér 12, Kálvin Center, Múzeum szárny 5. em.",12914797,4.1
+44,Kontakt Alapítvány,1035,Budapest,Váradi u. 17. VIII. 48.,"1035 Budapest, Bécsi út 195.",18095991,5
+45,Pázmány Péter Katolikus Egyetem,1088,Budapest,Szentkirályi u. 28.,"2087 Bp. Piliscsaba, Egyetem u. 1.",18055342,4.2
+46,Jobserver Személyzeti Tanácsadó Kft.,1119,Budapest,Hadak útja 4. 7. em. 67.,"1119 Budapest, Hadak útja 4. 7. em. 67.",13188193,0
+47,DRAGWITT Humán Erőforrás Tanácsadó Kft.,1123,Budapest,Győri út 8. fszt. 4.,"1123 Budapest, Győri út 8. fszt. 4.",13348672,1
+48,Magyar Máltai Szeretetszolgálat Egyesület,1125,Budapest,Szarvas Gábor u. 58-60.,"9021 Győr, Amadé L. u. 1.",19025702,4.2
+49,Pannon-Work Consulting Munkaerő- kölcsönző és közvetítő Kft.,1114,Budapest,Bartók Béla út 15. D. ép. 2. em. 1,"1114 Budapest, Bartók Béla út 15. D. ép. 2. em. 18.",13219576,3
+50,"KG International Munkaerő-közvetítő, Tanácsadó és Szolgáltató Kft.",1065,Budapest,Bajcsy Zsilinszky út 21. IV/1.2.,1065 Bp. Bajcsy Zs. út 21. IV/2.,13458812,3.1
+52,S-FORRÁS KERESKEDELMI ÉS SZOLGÁLTATÓ KFT.,1171,Budapest,Viízforrás u. 4/a.,"2724 Újlengyel, Kossuth Lajos utca 20.",,3.4
+53,Aarenson Consulting Személyzeti Tanácsadó Kft.,1143,Budapest,Gizella út 42-44. 2. em. 222.,"1143 Budapest, Gizella út 42-44. 2.em. 222.",13630322,4.8
+54,DEKRA Arbeit Magyarország Kft.,1062,Budapest,Andrássy út 97.,"1062 Budapest, Andrássy út 97.",13401126,3
+55,BLUEBIRD International Kereskedelmi és Szolgáltató Zrt.,1075,Budapest,Madách Imre út 13-14. B. ép. IV. em.,"1075 Budapest, Madách Imre út 13-14. B. ép. IV.em.",14455386,4.3
+56,HumanField Vezető- és Specialistakiválasztó Kft.,1125,Budapest,Kikelet u. 50.,"1054 Budapest, Bajcsy- Zsilinszky u. 48. II. em.",13260833,4.9
+57,Beck and Partners Tanácsadói és Szogáltató Kft.,1119,Budapest,Bártfai utca 15-17.,1119 Budapest Bártfai utca 15- 17.,13667209,4.2
+58,BINDER & Partners Vezetői tanácsadó Kft.,1138,Budapest,Szekszárdi u. 13. V/52.,"1133 Budapest, Váci út 76.",13716626,0
+59,JOLLY-JOKER DIAMONDS Üzleti Tanácsadó és Szolgáltató Bt.,1026,Budapest,Bimbó u. 188. mfsz. 3.,"1026 Budapest, bimbó u. 188. mfsz. 3.",22257516,0
+60,TREDIS CONSULTING Szolgáltató és Tanácsadó Kft.,1037,Budapest,Montevideo utca 5.,"1037 Budapest,Montevideo utca 5.",13494041,2.3
+61,ISG International Executive Consulting Kft.,1011,Budapest,Fő utca 14-18. B.lph.2. em.,"1011 Budapest, Fő utca 14-18. B.lph.2. em.",13618982,5
+62,ARTHUR HUNT Személyzeti Tanásadó Kft.,1075,Budapest,Madách I. út. 13-14. b.ép.,"1075 Budapest, Madách I. út 13- 14. b. ép.",11889496,4.7
+63,CITIJOB MUNKAERŐ-KÖZVETÍTŐ ÉS BEFEKTETÉSI KFT.,1145,Budapest,Kolumbusz u. 13. 1/1.,"1145 Budapest, Kolombusz u. 13. I/1.",13777236,0
+64,Karrier Hungária Kereskedelmi és Szolgáltató Kft.,1075,Budapest,Madách Imre út 13-14.,"1075 Budapest, Madách Imre út 13-14.",11777711,3.9
+65,EUWORK Munkaerőközvetítő és Tanácsadó Kft.,1052,Budapest,Városház u. 3-5.,"1052 Budapest, Városház u. 3-5.",,3.7
+66,PSP Siklóssy & Partner Vezetői Tanácsadó Kft.,1051,Budapest,József Nádor tér 8. I/ 2.,"1051 Budapest, József Nádor tér 8. I/ 2.",11813253,4.8
+67,HUMAN CONSULTING  Személyzeti Tanácsadó Kft.,1133,Budapest,Visegrádi u. 82/b. 2/4.,"1133 Budapest, Visegrádi u. 82/b. 2/4.",13660006,4.8
+68,KHLS Humánerőforrás és Logisztikai Szolgáltató Kft.,1117,Budapest,Október huszonharmadika u. 11. 2. em. 1.,"1117 Budapest, Októberhuszonharmadika u. 11. 2. em.",13792569,0
+69,GRANDIN Kereskedelmi és Szolgáltató Kft.,1223,Budapest,Királyka utca 9.,"1027 Budapest, Horváth u. 14- 24.",13577476,0
+70,Karrier és Stílus Tanácsadó Kft.,1028,Budapest,Petőfi u. 24.,"1208 Budapest, Petőfi u. 24.",13984119,0
+71,Hays Hungary Szolgáltató Kft.,1054,Budapest,Szabadság tér 7.,"1054 Budapest, Szabadság tér 7.",13985213,4.6
+72,Mihalek Vezetői Tanácsadó Kft.,1146,Budapest,Istvánmezei út 2/D. 7. em. 74.,"1146 Budapest, Istvánmezei út 2/D.",13087937,0
+73,Next-Consulting Személyzeti Tanácsadó Kft.,1024,Budapest,Lövőház u. 7-9. 1. em.,"1024 Budapest, Lövőház u. 7-9. 1. em.",12339781,0
+74,Humán Centrum Munkaerő-kölcsönző és Közvetítő Kft.,1077,Budapest,Wesselényi u. 11.,"2161 Csomád, Halom u. 1.",10892907,4.4
+75,Human Shipping Szolgáltató Kft.,1211,Budapest,Weiss Manfréd út 5-7.,"1211 Budapest, Weiss Manfréd út 5-7.",14161593,2.7
+76,JOBCONCEPT Szolgáltató és Kereskedelmi Kft.,1165,Budapest,Újszász u. 45/B. D.ép. 2lh.4/3,"1147 Budapest, Jávorka Ádám utca 14/b",14042702,4.5
+77,CHRONOS SYSTEMS Tanácsadó Kft.,1134,Budapest,Tüzér u. 30. II/11-13.,"1134 Budapest, Tüzér u. 30. II/11 13.",11939498,5
+78,AIMS-Magyarország Kft.,1015,Budapest,Szabó Ilonka u. 71/A,"1015 Budapest, Szabó Ilonka u. 71/a.",13187934,0
+79,BDO Magyarország HR Személyzeti Tanácsadó Kft.,1103,Budapest,Kőér utca 2/A C. ép.,"1103 Budapest, Kőér utca 2/A C. ép.",14090358,4.3
+80,Reed Magyarország Kft. volt Reed Personnel Services Hungary Kft.,1051,Budapest,Bajcsy-Zs. u. 12.,"1051 Budapest, Bajcsy-Zs. u.12.",14308765,4.6
+81,Bluefield Szolgáltató és Kereskedelmi Kft.,1122,Budapest,Ráth György utca 56.,"1122 Budapest, Ráth György utca 56.",14110968,0
+82,HUMÁNIA HRS GROUP ZRT.,1118,Budapest,Előpatak u. 78.,"1118 Budapest, Előpatak u. 78.",23693375,4.2
+83,BDO Magyarország Könyvelő és Bérszámfejtő Kft.,1103,Budapest,Kőér utca 2/A C. ép.,"1103 Budapest, Kőér utca 2/A C. ép.",11915609,4.3
+84,BSG-Audit Konyvelő Kft.,1103,Budapest,Kőér utca 2/A C. ép.,"1103 Budapest, Kőér utca 2/A C. ép.",12160716,0
+85,Gramont International Kft.,1068,Budapest,Benczúr u. 39.b.ép.3.em.16.,"1068 Budapest, Benczúr u. 39.b.ép.3.em.16.",14269127,5
+86,Az Értelmi Fogyatékosok Fejlődését Szolg. Magyar Down Al.,1145,Budapest,Amerikai út 14.,"1111 Budapest, Lágymányosi u. 15.",18005282,5
+87,EUROMUNKA Kft.,1113,Budapest,Bocskai út 77-79.,"1113 Budapest, Bocskai út 77- 79.",14035641,0
+88,KOZÁK HR Tanácsadó Kft.,1143,Budapest,Stefánia u. 16. mfszt. 2.,"1143 Budapest, Stefánia u. 16. mfszt. 2.",11791854,4.5
+89,IMPC Personnel Hungária Nemzetközi Vezetési Tanácsadó Kft.,1024,Budapest,Buday László u. 18. 1/3.,"8000 Székesfehérvár, Ányos P. u. 3.",13167651,0
+90,LINDON Munkaerő-kölcsönző és Személyzeti Tanácsadó Kft.,1013,Budapest,Pauler u. 18.,"1013 Budapest, Pauler u. 18.",14689996,0
+91,SMART STAFF Kereskedelmi és Szolgáltató Kft.,1141,Budapest,Paskál u. 13. fsz. 3.,"1141 Budapest, Paskál u. 13. fsz. 3.",14447028,0
+92,DELTA SOURCE Vezetői Tanácsadó Kft.,1037,Budapest,Montevideo u. 2/c,"1037 Budapest, Montevideo u.2/c",13908953,0
+93,GMN Hungary Kereskedelmi és Szolgáltató Kft.,1053,Budapest,Ferenciek tere 7-8. 2/11.,"1053 Budapest, Ferenciek tere 7- 8. 2/11",14600751,0
+94,ADAB Search Tanácsdó Kft.,1072,Budapest,Rákóczi út 42.,"1072 Budapest, Rákóczi út 42.",14659872,0
+95,CPL Jobs Kft.,1062,Budapest,Tezér krt. 55.,"1062 Budapest, Teréz krt. 55.",14916575,4.5
+96,eSense Human Resources Szolgáltató Zrt.,1138,Budapest,Madarász Viktor utca 47-49.,"1138 Budapest, Madarász Viktor utca 47-49.",14045640,4.5
+97,Tech People Hungary Szolgáltató Kft.,1053,Budapest,Reáltanoda u. 11. 1. em. 1.,"1053 Budapest, Reáltanoda u. 11. I. 1.",14098600,4.3
+98,Hunterfield Executive Search Kft.,1075,Budapest,Madách Imre út 13-14.,"1075 Budapest, Madách Imre út 13-14.",14594852,0
+99,Siketvakok Országos Egyesülete,1146,Budapest,Ajtósi Dürer sor 39.,"1053 Budapest, Múzeum krt. 3. 2. em. 1.",18061031,0
+100,Qualysoft Informatikai Zrt.,1118,Budapest,Rétköz utca 5.,"1118 Budapest, Rétköz utca 5.",12587300,4.5
+101,Kézenfogva Alapítvány,1093,Budapest,Lónyai u. 19.,"1093 Budapest, Lónyai u. 19.",18542651,4.7
+102,"""Dr. Ekler és Társai"" Munkatárs Fejlesztési Tanácsadó Kft.",1036,Budapest,Bécsi út 57-61.,"1036 Budapest, Bécsi út 57-61.",11356192,0
+103,"Navigation Services Kereskedelmi, Szolgáltató és Tanácsadó Kft.",1094,Budapest,Páva utca 9-11. fsz. 2.,"1094 Budapest, Páva utca 9-11. fsz. 2.",22606611,5
+104,HUMAN MASTER EUROPE Kft.,1016,Budapest,Hegyalja u. 7-13.,"9600 Sárvár, Batthyány u. 63.",22691875,0
+105,Hajnal & Dr. Bakay Munkaerő-közvetítő és Tanácsadó Bt.,1134,Budapest,Lőportár utca 20/B. I. em. 17.,"1134 Budapest, Lőportár utca 20/B. I. em. 17.",28572604,4.4
+106,RSM  Hungary Adótanácsadó és Pénzügyi Szolgáltató Zrt.,1138,Budapest,Faludi utca 3.,"1138 Budapest, Faludi utca 3.",14020867,5
+107,Stanton Chase Hungary Kft.,1051,Budapest,Dorottya u. 6. I. em.,"1051 Budapest, Dorottya u. 6.I. em.",22925970,0
+108,Pannon-Work Személyzeti Szolgáltató Zrt.,1114,Budapest,Bartók Béla út 15/D. II/18.,"1114 Budapest, Bartók Béla út 16.",13289067,4.1
+109,Ikelosz Személyzeti Tanácsadó Kft.,1161,Budapest,Tordai utca 10/a.,"1161 Budapest, Tordai utca 10/a.",22636261,3.9
+110,"Család, Gyermek, Ijúság Kiemelkedően Közhasznú Egyesület",1064,Budapest,Podmaniczky u. 75.,"1064 Budapest, Podmaniczky út 75.",18067752,0
+111,Kienbaum Executive Consultants Személyzeti Tanácsadó Kft.,1062,Budapest,Andrássy út 100.,"1062 Budapest, Andrássy út 100.",11839824,0
+112,Valore Basis Tanácsadó és Szolgáltató Kft.,1063,Budapest,Szív utca 33.,"1063 Budapest, Szív utca 33.",23180172,0
+113,HR Partner Consulting Kft.,1042,Budapest,Árpád utca 55. 2. em. 4.,"1042 Budapest, Árpád utca 55. 2. em. 4.",23316454,5
+114,HUMÁN ETAP Tanácsadó és Szolgáltató Kft.,1042,Budapest,Liszt F.- u. 27.,"1042 Budapest, Liszt F. u. 27.",13606527,0
+115,Pearl Hunt Kft.,1023,Budapest,Ürömi utca 42-44.,"1023 Budapest, Ürömi utca 42- 44.",23321386,4.9
+116,CORTINAX Üzleti Tanácsadó és Szolgáltató Kft.,1119,Budapest,Andor u. 21. fszt.,"1119 Budapest, Andor u. 21. fszt.",13289706,0
+117,"MCOnet International Internet, Média, Szolgáltató Kft.",1052,Budapest,Piarista u. 4.,"1052 Budapest, Piarista u. 4.",12616592,0
+118,Green Job Kft.,1196,Budapest,Báthori u. 130.,"7622 Pécs, Bajcsy Zsilinszky u. 9. 3. em.",13927022,4.2
+119,Marksman & Wolf Kft.,1054,Budapest,Széchenyi utca 14. 3. em.,"1054 Budapest, Széchenyi utca 14. 3. em.",23465259,0
+120,ITL Group Kereskedelmi és Tanácsadó Kft.,1056,Budapest,Váci utca 81. 4. em.,"1056 Budapest, Váci utca 81. 4. em.",12093977,5
+121,SWICON Kereskedelmi és Szolgáltató Zrt.,1031,Budapest,Záhony utca 7.,"1031 Budapest, Záhony utca 7.",14356933,4.7
+122,Magyar Vöröskereszt,1051,Budapest,Arany János u. 31.,"1051 Budapest, Arany János u. 31.",19002093,4.2
+123,Újbuda Prizma Szociális Fejlesztési és Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság,1113,Budapest,Hamzsabégi út 60.,"1113 Budapest, Hamzsabégi út 60.",21185023,4.4
+124,RecruIT Személyzeti és Tanácsadó Kft.,1023,Budapest,Árpád fejedelem útja 26-18. 1. em.,"1023 Budapest, Árpád fejedelem útja 26-28.",23379743,0
+125,Dual Focus Consulting Szolgáltató és Tanácsadó Kft.,1133,Budapest,Pannónia utca 53/A. III. em. 3.,"1133 Budapest, Pannónia utca 53/A. III. em. 3.",14290424,4.3
+126,ROBOTICA BUSINESS FORCE Kft.,1097,Budapest,Könyves Kálmán krt. 12-14.,"1097 Budapest, Könyves Kálmán krt.12-14.",23862106,3.7
+127,Get Work Trend Kft.,1023,Budapest,Árpád fejedelem útja 31. fszt. 1.,"1023 Budapest, Árpád fejedelem útja 31. fszt. 1.",13380656,4
+128,Németh Nóra,1118,Budapest,Ramocsa utca 23/B,"1118 Budapest, Ramocsa utca 23/B",60265896,4.6
+129,SAM headhunting Magyarország Személyzeti Tanácsadó Kft.,1023,Budapest,Bécsi út 3-5. II. em. 5.,"1023 Budapest, Bécsi út 3-5.",22635129,4.8
+130,BÁNYAI & PARTNERS CONSULTING Személyzeti Tanácsadó és Szolgáltató Kft.,1051,Budapest,Arany János utca 34. 2. em. 203.,"1012 Budapest, Logodi utca 44/b. 1. em. 4. sz.",23779710,0
+131,AGISANTÉ Healthcare Recruitment Kft.,1027,Budapest,Fő utca 80. 2. em. 9/A.,"1027 Budapest, Fő utca 80. II. em. 9/A",22928131,0
+132,"Umbrella  Consulting  Vezetési,  Üzletviteli és     Szervezetfejlesztési     Tanácsadó     és Szolgáltató Kft.",1087,Budapest,Könyves Kálmán krt. 76.,"1087 Budapest, Könyves Kálmán krt. 76.",23542255,5
+133,MECHID Service Kft.,1032,Budapest,Föld utca 65.,"1032 Budapest, Föld utca 65.",22763183,0
+134,ISEEQ Korlátolt Felelősségű Társaság,1075,Budapest,Madách Imre út 13-14. Madách Trade C. ép. B. lház. 7. em.,"1075 Budapest, Madách Imre út 13-14. Madách Trade C. ép. B. lház. 7. em.",24078067,4.9
+135,LES     COQUES     Korlátolt     Felelősségű Társaság,1115,Budapest,Etele út 40.B.ép III. em. 20.,"1035 Budapest, Miklós u. 5. III/15.",14120266,0
+136,AD Csoport Kft.,1122,Budapest,Hajnóczy József utca 6.3.em. 23.,"1122 Budapest, Csaba u. 7.B.",13537669,0
+137,"DEKRA         Akademie         Felnőttképző, Munkavédelmi és Szolgáltató Kft.",1012,Budapest,Vérmező út 4.,"1012 Budapest, Vérmező út 4.",11101291,3.7
+138,IFKA Iparfejlesztési  Közhasznú  Nonprofit Kft.,1062,Budapest,Andrássy út 100.,"1062 Budapest, Andrássy út 100.",23833904,2.7
+139,Munka-kör Alapítvány,1021,Budapest,Hűvösvölgyi út 81.,"1021 Budapest, Hűvösvölgyi út 81.",18388192,4.6
+140,Emberkereső  -  Emberierőforrás  Fejlesztő és Tanácsadó Kft.,1118,Budapest,Mányoki út 7/A 3. em. 15. ajtó,"1071 Budapest, Damjanich u. 38.",24225922,0
+141,Astrum Mei Tanácsadó és Szolgáltató Kft.,1077,Budapest,Király utca 85. 3. em. 9.,"1077 Budapest,Király u. 85. 3/9.",14018354,0
+142,Karrier  Rent  Kereskedelmi  és  Szolgáltató Kft.,1075,Budapest,Madách Imre út 13-14.,"1075 Budapest, Madách Imre út 13-14.",24117258,0
+143,DELEGO CONSULTING Szolgáltató Kft.,1065,Budapest,Bajcsy-Zsilinszky út 51.,"1065 Budapest, Bajcsy Zs. út 51.",23724497,4
+144,Human Priority Kft.,1123,Budapest,Alkotás utca 17-19. 3. emelet,"1123 Budapest, Alkotás utca 17- 19. 3. emelet",23074651,5
+145,APEX Ipari és Szolgáltató Kft.,1145,Budapest,Róna u. 157.,"1145 Budapest, Róna u. 157.",10345003,0
+146,AIDe-Hungary    Személyzeti    Szolgáltató Kft.,1185,Budapest,Nagybecskerek utca 32.,"1185 Budapest, Nagybecskerek utca 32.",23945311,3.8
+147,SOL-KOR Gazdasági és Szolgáltató Kft.,1138,Budapest,Meder utca 8/A 4.em.6.,"1138 Budapest, Meder, utca 8/A 4.em.6.",13523790,0
+148,laurius.hu       Vezetési       és      Szervezési Tanácsadó Kft.,1051,Budapest,Széchenyi István tér 7-8. 1. em.,"1051 Budapest, Széchenyi István tér 7-8. 1. em.",24170499,0
+149,Serendi (Hungary) Kft.,1093,Budapest,Vámház krt. 13.,"1093 Budapest, Vámház krt. 13.",24060778,5
+150,Karrier Szakmai Diáksegítő Egyesület,1148,Budapest,"Budapest, Kalapács u. 6. II/3.","4400 Nyíregyháza, Dózsa György utca 3/A III/303.",18698264,0
+151,Profield Személyzeti Tanácsadó Kft.,1214,Budapest,Mag utca 3.,"2724 Újlengyel, Kossuth u. 36.",22750837,3.6
+152,Innoview Kft.,1133,Budapest,Váci út 76.,"1133 Budapest, Váci út 76.",23323467,4.8
+153,Profield Munkaerő-kölcsönző Kft.,1214,Budapest,Mag u. 3,"1071 Budapest, Dózse György út 78.",23035302,3.6
+154,Schönherz Bázis Közvetítő Iroda Kft.,1115,Budapest,Bartók Béla út 152. H. ép.,"1115 Budapest, Bartók Béla út 152 H. ép.",24737825,4.5
+155,"EXIMPERT  Kereskedelmi,  Szolgáltató  és Tanácsadó Kft.",1075,Budapest,Károly körút 5/A félemelet 1.,"1075 Budapest, Károly körút 5/A félemelet 1.",13927118,0
+156,Humilitas Kft.,1043,Budapest,Berda József utca 10. 2. em. 21.,"1043 Budapest, Lórántffy Zsuzsanna utca 15/B",23329236,4.8
+157,OPAT Kft.,1016,Budapest,Ág utca 3.,"1016 Budapest, Ág utca 3.",14516948,0
+158,ZUGLÓI                 CSALÁD-                 ÉS GYERMEKJÓLÉTI KÖZPONT,1144,Budapest,Füredi park 6.,"1144 Budapest, Füredi park 6.",16926642,3.5
+159,Medicolink Consultancy Tanácsadó Kft.,1094,Budapest,Tűzoltó utca 59. 1. em.,"1094 Budapest, Tűzoltó utca 59. 1. em.",24839635,5
+160,P & Bert Hungary Kft.,1205,Budapest,Asztalos Sándor u. 17.,"1205 Budapest, Asztalos Sándor u. 17.",24694128,4
+161,MaW Szolgáltató és Tanácsadó Kft.,1137,Budapest,Szent István körút 18.,"1137 Budapest, Szent István körút 18.",13594921,0
+162,CALMAIR         2011         Légiközlekedési Szolgáltató és Oktatási Kft.,1161,Budapest,Hársfavirág utca 17. B. ép.,"1161 Budapest, Hársfavirág utca 17. B. ép.",23501272,0
+163,Focus Work Kft.,1143,Budapest,Stefánia út 32. mfszt. 1.,"1143 Budapest, Stefánia út 32. mfszt. 1.",24896746,0
+164,"GORNEX   Építőipari,    Kereskedelmi    és Szolgáltató Kft.",1143,Budapest,Hungária körút 66. III. em. 10.,"1143 Budapest, Hungária körút 66. III. em. 10.",12763924,0
+165,HVG Kiadó Zrt.,1037,Budapest,Montevideo u. 14.,"1037 Budapest,Montevideo u. 14.",10226353,4.3
+166,ESTO-TESK Munkaerő-közvetítő Kft.,1062,Budapest,Aradi u. 8.,"1062 Budapest, Aradi u. 8.",25426205,1
+167,TELEKONTÓ' 94. Tanácsadó Kft.,1126,Budapest,Tartsay Vilmos u. 24.2.em.1.,"1126 Budapest, Tartsay Vilmos u. 24. II.em.1.",10980178,0
+168,Recruitment Solutions Kft.,1039,Budapest,Sinkovits Imre utca 46. F/2.,"1039 Budapest, Sinkovits Imre u. 46. F/2.",24990864,0
+169,Zimmer & Partner Bt.,1124,Budapest,Németvölgyi utca 47. 2. em. 2.,"1124 Budapest, Németvölgyi utca 47. 2. em. 2.",21547058,0
+170,Job Impulse Hungária Szolgáltató Kft.,1051,Budapest,Bajcsy-Zsilinszky út 12.,"7100 Szekszárd, Keselyűsi út 4- 8.",14884232,1
+171,LSG-CEE Szolgáltató Kft.,1037,Budapest,Folyondár köz 4/A,"1037 Budapest, Folyondár köz 4/A",23829956,3.9
+172,EZLine Group Kft.,1075,Budapest,Károly krt.5. félemelet 1.,"1095 Budapest, Soroksári út 48.1.ép.3.em/12. ajtó",24874492,0
+173,MIL-JOB Kft.,1147,Budapest,Öv utca 179. fszt. 1.,"1147 Budapest, Kerékgyártó utca 65/B",24855945,4.2
+174,"Work Plus Hungary  Munkatárs Kölcsönző és   Közvetítő,   Személyügyi   és   Vezetés Tanácsadó Kft.",1165,Budapest,Papír utca 19.,"1165 Budapest, Papír utca 19.",12261446,0
+175,DIALOG-PLUSZ Számítástechnikai Kft.,1137,Budapest,Katona József utca 14.,"1137 Budapest, Katona József utca 14.",10606494,0
+176,AM Vitality Kft.,1027,Budapest,Horvát utca 14-24.,"1027 Budapest, Horvát utca 14- 24.",24760708,0
+177,Work Force Személyzeti Tanácsadó és Szolgáltató Kft.,1134,Budapest,Váci út 49.,"1134 Budapest, Váci út 49.",13213295,3.7
+178,Veres Gyöngyi,1121,Budapest,Szilassy út 12-16.ép:E. ajtó 4.,"1121 Budapest, Szilassy út 12- 16.ép:E.ajtó 4.",66446248,4.2
+179,JOBTAIN Szolgáltató Kft.,1067,Budapest,Podmaniczky utca 31.2.em.11.,"1095 Budapest, Dandár u. 25. fszt. 2.",13227236,3
+180,S   &   K   Human-Logistics   Tanácsadó   és Szolgáltató Kft.,1161,Budapest,Szent Korona utca 16-18.,"1163  Budapest, Cziráki u. 24-32. II. em. 148.",10492095,0
+181,In Con Services Kft.,1077,Budapest,Wesselényi utca 66. fszt. 1.,"1077 Budapest, Wesselényi utca 66. fszt. 1.",25117433,0
+182,ABT Hungária Tanácsadó Kft.,1037,Budapest,Montevideo u. 3/a,"1037 Budapest, Montevideo utca 2/c",10884223,5
+183,Moving On Sourcing Kft.,1037,Budapest,Bokor utca 9-11.,"1037 Budapest, Bokor utca 9-11.",13668925,5
+184,Interim Vezető Szolgáltató Kft.,1036,Budapest,Perc u. 8. 4. emelet,"1036 Budapest, Perc u. 8. 4. emelet",14847088,0
+185,"Magyar      Logisztikai,      Beszerzési      és Készletezési Társaság",1061,Budapest,Király utca 12.,"1061 Budapest, Király utca 12.",18009413,5
+186,Matejdesz Katalin,1131,Budapest,Madarász Viktor u. 25. I/9.,"1131 Budapest, Madarász Viktor utca 25.I/9.",67236107,0
+187,Invited to Work Kft.,1036,Budapest,Lajos utca 74-76. 4. em.,"1036 Budapest, Lajos utca 74-76. 4. em.",25383780,0
+188,Federal Trust Company Kft.,1048,Budapest,Megyeri út 196.,"1046 Budapest, Attila u. 156- 158.",23402551,0
+189,profession.hu Kft.,1123,Budapest,Nagyenyed utca 8-14. 4. em.,"1123 Budapest, Nagyenyed utca 8-14. 4. em.",25087879,3.9
+190,Siketek      és      Nagyothallók      Országos Szövetsége,1068,Budapest,Benczúr u. 21.,"1068 Budapest, Benczúr utca 21.",19655031,4.5
+191,Collective Consulting Kft.,1135,Budapest,Jász utca 44. 3. em. 13.,"1135 Budapest, Jász utca 44. 3. em. 13.",25347575,0
+192,Green Fox Academy Kft.,1062,Budapest,Andrássy út 66.,"1062 Budapest, Andrássy út 66.",25374926,4.4
+193,BERCOOP Műszaki és Kereskedelmi Bt.,1124,Budapest,Sasfiók utca 4.,"1124 Budapest, Sasfiók utca 4.",28208448,0
+194,Alexander Mann Solutions Kft.,1054,Budapest,Kálmán Imre utca 1.,"1054 Budapest, Kálmán Imre utca 1.",22993115,0
+195,ADVANCEMENTOR Tanácsadó és Szolgáltató Kft.,1125,Budapest,Felhő utca 12/A. 1.em.6.,"1125 Budapest, Felhő utca 12/A. 1. em.6.",14841862,0
+196,Skitus Project Engineering Kft.,1113,Budapest,Bartók Béla út 152.F.ép.,"1113 Budapest, Bartók Béla út 152.F.ép.",24212779,3.3
+197,Research Professionals Kft.,1027,Budapest,Margit krt. 48.II. em. 12/a,"1027 Budapest, Margit krt. 48. II. em.12/a",24887047,0
+198,International Crew Ship Training Center Kereskedelmi és Szolgáltató Kft.,1055,Budapest,Nagy Ignác utca 19/A,"1055 Budapest, Nagy Ignác utca 19/A",13777889,0
+199,VPS  GROUP  Személyügyi  Tanácsadó  és Szolgáltató Kft.,1131,Budapest,Madarász Viktor utca 13. D. ép. fszt. 2.,"1131 Budapest, Madarász Viktor utca 13. D. ép. fszt. 2.",10404821,4.3
+200,NEXXUS Szolgáltató Kft.,1117,Budapest,Erőmű u. 4. 1/1.,"1117 Budapest, Erőmű u. 4. 1/1.",25476396,0
+201,Silverhand Hungary Kft.,1053,Budapest,Kossuth Lajos utca 7-9.,"1053 Budapest, Kossuth Lajos utca 7-9.",25479186,0
+202,Orban Consulting Hungary Kft.,1024,Budapest,Lövőház utca 30.2.em.,"1024 Budapest, Lövőház utca 30. 2. em.",24853118,0
+203,HR Direkt Kft.,1095,Budapest,Soroksári út 48-54.,"1095 Budapest, Soroksári út 48- 54.",24785392,0
+204,Muneris Consortium Kft.,1062,Budapest,Lendvay utca 22.,"1062 Budapest, Lendvay utca 22.",22998732,0
+205,AndreasAgro   Skandináv   Munkaerőpiaci Zrt.,1027,Budapest,Kapás utca 6-12.,"1027 Budapest, Kapás utca 6-12.",24147176,4
+206,SamsonDaniel            Vendéglátó            és Munkaerőközvetítő Szolgáltató Bt.,1028,Budapest,Máriaremetei út 48.,"1028 Budapest, Máriaremetei út 48.",25500064,
+207,MADS WORK Szolgáltató Kft.,1092,Budapest,Erkel Ferenc utca 3. fsz.,"1092 Budapest, Erkel utca 3.",23026517,4.1
+208,fOrgXpert International Tanácsadó Kft.,1118,Budapest,Kelenhegyi út 36/A. fszt.3.,"1118 Budapest, Kelenhegyi út 36/A. fszt. 3.",25519426,5
+209,HR Business Partners Kft.,1093,Budapest,Lónyai utca 41. félemelet 1.,"1093 Budapest, Lónyai utca 41. félemelet 1.",25571680,0
+210,Szűcs Judit,1048,Budapest,Külső Szilágyi út 116. 2. em. 6.,"1048 Budapest, Külső Szilágyi út 116. 2. em. 6.",60647647,0
+211,Manpower Business Solutions Kft.,1133,Budapest,Váci út 76.,"1133 Budapest, Váci út 76.",14073463,0
+212,Randstad Sourceright Kft.,1093,Budapest,Czuczor utca 2-10.VI. em.,"1093 Budapest, Czuczor utca 2- 10.VI. em.",25583014,4.1
+213,Marián Dávid,1046,Budapest,Erdősor út 18. 2. em. 19.,"1046 Budapest, Erdősor út 18. 2. em. 19.",67334418,1.8
+214,ATLASZ Munkaerő Közvetítő Kft.,1134,Budapest,Angyalföldi út 5. B ép.,"1134 Budapest, Angyalföldi út 5. B ép.",24137627,4.6
+215,INDRA-CONSULTING Kft.,1074,Budapest,Vörösmarty utca 16-18. III. em. 309.,"1074 Budapest, Vörösmarty utca 16-18. III. em. 309.",24921642,0
+216,STRUKTÚRA   Munkaerő   kölcsönző   és Szolgáltató Kft.,1077,Budapest,Rottenbiller u. 44. 1.em. 11.,"2510 Dorog, Esztergomi út 15.",12285606,0
+217,LET'S CODE Kft.,1135,Budapest,Csata utca 2-10.,"1133 Budapest, Gogol utca 26. 1. emelet 1.",23997923,5
+218,Corun Service Szolgáltató Kft.,1025,Budapest,Törökvész út 45. fszt. 3.,"1025 Budapest, Törökvész út 45. fszt. 3.",23578643,3
+219,Tamna Consulting Group Kft.,1136,Budapest,Hegedűs Gyula utca 29. A. ép. Ü- 1.,"1136 Budapest, Hegedűs Gyula utca 29. A.ép. Ü-1.",25720145,0
+220,MULTI JOB PRO Kft.,1137,Budapest,Szent István körút 2. I. em. 2.,"1137 Budapest, Szent István körút 2. I. em. 2.",23365805,0
+221,EKI Logisztik Kft.,1055,Budapest,Balassi Bálint utca 25. 2. em .6.,"1055 Budapest, Balassi Bálint utca 25. 2. em .6.",24725783,1
+222,NORDCONN International Informatikai és Tanácsadó Kft.,1071,Budapest,Városligeti fasor 47-49.,"1071 Budapest, Városligeti fasor 47-49.",25354193,5
+224,Training360 Kft.,1117,Budapest,Budafoki út 56. A. ép. III.em.,"1117 Budapest, Budafoki út 56.",23150041,4.4
+225,QTC Informatikai és Szolgáltató Kft.,1147,Budapest,Szuglói körvasút sor 153. fszt. 1.,"1147 Budapest, Szuglói körvasút sor 153. fszt. 1.",13566359,4.2
+226,SZEMU-TEAMUP     Személyszállító     és Munkaerőközvetítő Kft.,1076,Budapest,Jobbágy utca 5-9. B. ép. 6. em. 63.,"1078 Budapest, Hernád u. 4.",25787160,0
+227,NEM ADOM FEL Alapítvány,1093,Budapest,Lónyay u. 3. 2/1.,"1082 Budapest, Baross u. 86.",18256529,4.8
+228,TAX  SYSTEM  Tanácsadó  és  Szolgáltató Kft.,1092,Budapest,Ráday u.9.1.em.,"1092 Budapest, Ráday u. 9. 1. em.",12142703,5
+229,MATRITEL Tanácsadó és Szolgáltató Kft.,1082,Budapest,Baross u. 114-116. 3. em. 309.,"1095 Budapest, Soroksári út 48. 8. épület földszint",14397466,0
+230,Bárány Judit,1095,Budapest,Gát u. 9-11. I/3.,"1095 Budapest, Gát u. 9-11. I/3.",66414414,0
+231,Neurodiversitas Alapítvány,1077,Budapest,Rottenbiller u. 5/B. fsz.8.,"1077 Budapest, Rottenbiller utca 5/B. fsz. 8.",18746147,0
+232,AB Service Szolgáltató Kft.,1064,Budapest,Izabella u. 80.,"1064 Budapest, Izabella utca 80.",25770102,4.2
+233,Carbyne Kft.,1111,Budapest,Lánymányosi u. 12. fszt. 2.,"1075 Budapest, Károly krt. 25. III/4.",25868593,0
+234,Hausengel International Magyarország Kft.,1146,Budapest,Thököly út 86. fszt. 1.,"1146 Budapest, Thököly út 86. fszt. 1.",25356102-2-42,4.1
+235,GoWork Recruitment Szolgáltató Bt.,1181,Budapest,Havanna u. 32. 7/21.,"1091 Budapest, Üllői út 25. 2/214.",28185749,4.4
+236,INSERTUS HR Kft.,1116,Budapest,Kondorosi út 8. B. ép. A.lph.2. em. 20.,"1116 Budapest, Kondorosi út 8. B. ép. A.lph.2. em. 20.",24911911,0
+237,Lőrincz Orsolya,1015,Budapest,Csalogány utca 12. C.2. emelet 11.,"1015 Budapest, Csalogány utca 12. C.2. em. 11.",67796467,0
+238,MELOSTOCK Kft.,1118,Budapest,Előpatak u. 47.,"1118 Budapest, Előpatak u. 47.",25924002,4.8
+239,REED Magyarország Kft.,1051,Budapest,Bajcsy-Zsilinszky út 12.,"1051 Budapest, Bajcsy- Zsilinszky út 12.",14308765,4.6
+240,INTERJOB SZEMÉLYZETFEJLESZTŐ Szolgáltató Kft.,1055,Budapest,Bihari u. 15. I. 6.,"1055 Budapest, Bihari u. 15. I. 6.",13533407,0
+241,Techfinder Kft.,1118,Budapest,Somlói út 15. B. ép.,"1118 Budapest, Somlói út 15. B.ép.",25943418,0
+242,Budapesti Metropolitan Egyetem,1148,Budapest,Nagy Lajos király útja 1-9.,"1148 Budapest, Nagy Lajos király útja 1-9.",18172636,4.2
+243,ENLOYD  Kft.,1194,Budapest,Kiss János altábornagy utca 32.,"1194 Budapest, Kiss János altábornagy utca 32.",25151921,4.3
+244,Talentify Co. Kft.,1138,Budapest,Népfürdő utca 22. B. torony 15. em.,"1138 Budapest, Népfürdő u. 22. B torony 15. em.",25030145,0
+245,Manuvia Expert Recruitment HU Kft.,1214,Budapest,Akácfa utca 5. 2. em. 8.,"1072 Budapest, Rákóczi út 42. EMKE Irodaház, 3. em. 5.",24190978,0
+246,Harpagornis Tanácsadó Kft.,1112,Budapest,Menyecske u. 31. 1/7.,"1112 Budapest, Menyecske u. 31. 1/7.",25017395,0
+247,Progmatic Academy Kft.,1036,Budapest,Bécsi út 53-55.,"1036 Budapest, Bécsi út 53-55.",25914704,4.9
+248,MIMOX  Számítástechnikai  Tanácsadó  és Oktató Kft.,1133,Budapest,Váci út 76.,"1133 Budapest, Váci út 76.",11880590,0
+249,Kulcsár Júlia,1149,Budapest,Egressy út 110 A/3/1,"1149 Budapest, Egressy út 110 A/3/1",67393129,4.8
+250,ICON Klinikai Kutató Kft.,1037,Budapest,Szépvölgyi út 39.,"1037 Budapest, Szépvölgyi 39.",13099237,0
+251,Prohumán  2004  Munkaerő  Szolgáltató  és Tanácsadó Kft.,1146,Budapest,Hungária krt. 140-144.,"1146 Budapest, Hungária krt. 140-144.",13410021,2.9
+252,Irodahatékonysági Tanácsadó Kft.,1031,Budapest,Városfal köz 3.,"1047 Budapest, Labdarúgó utca 4. L29/H.",24827012,3.9
+253,Ragnar-Human Kft.,1081,Budapest,Kun u. 4. fszt. 7.,"1081 Budapest, Kun u. 4. fszt. 7.",25798500,3.9
+254,JobX Hungary Kft.,1034,Budapest,Eső utca 3. II/2.,"1034 Budapest, Eső utca 3. II/2.",25929674,1
+255,HR Park Szolgáltató Kft.,1012,Budapest,Márvány u. 17.,"1012 Budapest, Márvány u. 12.",26104991,0
+256,Máltai Gondoskodás Nonprofit Kft.,1011,Budapest,Bem rakpart 28.,"1011 Budapest, Bem rakpart 28.",18227619,4.2
+257,Quality JOB Kft.,1081,Budapest,Kun u. 4. fszt. 7.,"1081 Budapest, Kun u. 4. fszt. 7.",14988714,4.2
+258,Indivizo          Munkaerő          Kiválasztási Szolgáltató Zrt.,1123,Budapest,Alkotás u. 17-19.,"1123 Budapest, Alkotás u. 17-19.",26323112,5
+259,Cielo Talent Szolgáltató Kft.,1054,Budapest,Kálmán Imre utca 1.,"1054 Budapest, Kálmán Imre utca 1.",25389975,3.8
+260,Dévényi Regina,1023,Budapest,Frankel Leó út 92.,"1023 Budapest, Frankel Leó út 92.",67856372,0
+261,Cross Projects Kft.,1123,Budapest,Csörsz u. 17-21. 7/2.,"1123 Budapest, Csörsz u. 17-21. 7/2.",25781669,0
+262,Maxima Work Kft.,1025,Budapest,Szemlőhegy utca 34.,"1025 Budapest, Szemlőhegy utca 34.",14104774,0
+263,Ante   Omnia   Qualitas   Minőségfejlesztési Tanácsadó Bt.,1061,Budapest,Milán utca 21.,"1161 Budapest, Milán utca 21.",21924275,0
+264,Perfect Man Személyzeti Szolgáltató Kft.,1146,Budapest,Hermina u. 17.,"1146 Budapest, Hermina u. 17.",14595994,2.1
+265,Switch IT Fejvadász és Tanácsadó Kft.,1142,Budapest,Ráskay Lea u. 51. II. em. 1.,"1142 Budapest, Ráskay Lea u. 51. II. em. 1.",26168872,0
+266,Dr. Telkes József Vezetői Tanácsadó Kft.,1132,Budapest,Váci út 28. IV. em. 1.,"1132 Budapest, Váci út 28. IV. em. 1.",10408492,0
+267,HD Jobs Kft.,1067,Budapest,Podmaniczky u.31.2.em.11,"5000 Szolnok, Kápolna u. 3.",11717339,5
+268,RUSSMEDIA DIGITAL Szolgáltató kft.,1138,Budapest,Madarász Viktor utca 47-49.,"1138 Budapest, Madarász Viktor utca 47-49.",11903079,0
+269,"OPTIMUM   TREND   Gyártó,   Építő   és Kereskedelmi Betéti Társaság",1184,Budapest,Mikszáth K. u. 10/A 4/16.,"2330 Dunaharaszti, Jendrassik György u. 10.",22158792,0
+270,WhiteSkiff Jobs Kft.,1124,Budapest,Csörsz u. 43. Gesztenyés Torony 3. emelet,"1011 Budapest, I. kerület,  Fő utca 10.",25977426,0
+271,Sűdy és Társa Kereskedelmi és Szolgáltató Kft.,1037,Budapest,Montevido utca 4.,"1037 Budapest, Montevido utca 4.",10507065,5
+272,Brief Consulting Betéti Társaság,1038,Budapest,Óbor u. 24.,"1038 Budapest, Óbor u. 24.",25924985,0
+273,"""Vezetek""  Vezetéstechnikai  Továbbképző Központ Kft.",1239,Budapest,Európa utca 6.,"1239 Budapest, Európa utca 6.",23358706,4.5
+274,Reaktor    Labs    Informatikai    Oktató    és Munkaközvetítő Kft.,1139,Budapest,Gömb u. 26.,"1139 Budapest, Gömb u. 26.",25853898,5
+275,Takarékos          Közérdekű          Nyugdíjas Szövetkezet,1075,Budapest,Rumbach Sebestyén u. 6. félemelet 2.,"1075 Budapest, Rumbach Sebestyén u. 6. félemelet 2.",26164294,0
+276,Exact   Solutions   Személyzeti   Tanácsadó Kft.,1053,Budapest,Ferenciek tere 5. félemelet 15.,"1053 Budapest, Ferenciek tere 5. félemelet 15.",13965693,5
+277,SpenglerFox      Limited      Magyarországi Fióktelepe,1138,Budapest,Népfürdő utca 22.,"1138 Budapest, Népfürdő u. 22.",24701310,4.7
+278,Király Anita,1113,Budapest,Hamzsabégi út 60. D/4. II/154.,"1113 Budapest, Hamzsabégi út 60. D/4. II/154.",66650788,4.9
+279,Olé   Szolgáltató   és   Kereskedelmi   Betéti Társaság,1121,Budapest,1121 Budapest Lidérc u. 46.,"1118 Budapest, Rahó u. 2.",22192431,0
+280,Illés Diána Anett,1026,Budapest,Trombitás út 29/B 2. em. 9.,"1026 Budapest, Trombitás út 29/B 2. em. 9.",67123366,0
+281,Appello Tanácsadó és Szolgáltató Kft.,1075,Budapest,Madácsh Imre út 13-14.,"1075 Budapest, Madách Imre út 13-14.",12406283,5
+282,Staff Solution Consulting Kft.,1163,Budapest,Gordonka utca 23.,"1163 Budapest, Gordonka utca 23.",26254522,0
+283,Human & Medic Work Consulting Kft.,1121,Budapest,Béla Király út 57/B,"1015 Budapest, Hattyú utca 14., Hattyúház irodaház 9. emelet",13243326,0
+284,Job       Power       Hungary       Személyzeti Tanácsadó Kft.,1118,Budapest,Villányi út 101. magasföldszint 1.,"1118 Budapest, Villányi út 101. magasföldszint 1.",26309189,5
+285,Working                Moms                Hungary Munkaerőközvetítő Kft.,1135,Budapest,Frangepán utca 83/B. 4. em. 11.,"1135 Budapest, Frangepán utca 83/B. 4. em. 11.",26247272,0
+286,Diepeveen & Partners Kft,1007,Budapest,Danubius Grand Hotel Margitsziget,"1007 Budapest, Margitsziget Grand Hotel",12783795,0
+287,DRAMEX   Kereskedelmi   és   Tanácsadó Kft.,1065,Budapest,Révay u. 8. fszt. 3.,"1065 Budapest, Révay u. 8.  fszt. 3.",11016298,0
+288,Kaltenecker István,1211,Budapest,Kossuth Lajos u. 62. Fsz. 2.,"1211 Budapest, Kossuth Lajos u. 62. Fsz. 2.",66451754,0
+289,Mandant Partners Kft.,1124,Budapest,Csörsz u. 43. Gesztenyés Torony 3. emelet,"3526 Miskolc, Szentpéteri kapu 5- 7. fszt. 3.",13805733,5
+290,Smartfish Consulting Kft.,1038,Budapest,Óbor u. 24.,"1038 Budapest, Óbor u. 24.",24132251,5
+291,MySkill Bt.,1037,Budapest,Hegyoldal utca 4.,"1037 Budapest, Hegyoldal u. 4.",25463813,0
+292,Barta Krisztina,1033,Budapest,Polgár utca 3. em. 3. ajtó 15.,"1033 Budapest, Polgár utca 3. em. 3. ajtó 15.",67521654,0
+293,Muneris Energy Kft.,1062,Budapest,Lendvay utca 22.,"1062 Budapest, Lendvay utca 22.",25374641,0
+294,MARKETINGFAKTÚRA Tanácsadó Kft.,1161,Budapest,Kinizsi Pál u. 15.,"1161 Budapest, Kinizsi Pál u. 15.",23144345,0
+295,CARAFARIN-TRADE   Kereskedelmi   és Szolgáltató Kft.,1063,Budapest,Szinyei Merse Pál u. 10. I/10.,"1188 Budapest, Brigád u. 18/b.",25891476,0
+296,Vesta   Vision   Szolgáltató   és   Tanácsadó Kft.,1034,Budapest,Eső utca 7. 2. em. 1.,"1034 Budapest, Eső utca 7.2. em. 1.",25922316,0
+297,KNOWLEDGE PYRAMID Kft.,1007,Budapest,Danubius Grand Hotel Margitsziget,"1007 Budapest, Danubius Grand Hotel Margitsziget",26374194,0
+298,HORUS   METALL   Fémipari   Gyártó   és Szolgáltató Kft.,1138,Budapest,Karikás Frigyes utca 11. 1. em. 1.,"2089 Telki, Juharfa u. 11.",11148964,0
+299,ID & Partners Executive Search Kft.,1007,Budapest,Danubius Grand Hotel Margitsziget,"1007 Budapest, Danubius Grand Hotel Margitsziget",26527495,3.8
+300,Legal & Human Control Kft.,1097,Budapest,Gyáli út 18-20.,"1097 Budapest, Táblás u. 36-38.",26332976,5
+301,OFA  Országos  Foglalkoztatási  Közhasznú Nonprofit Kft.,1036,Budapest,Lajos u. 80.,"1036 Budapest, Lajos u. 80.",23811038,4.5
+302,Sikergarancia Tanácsadó és Kiadó Kft.,1096,Budapest,Vendel utca 11.,"1096 Budapest, Vendel u. 11. Vendel Irodaház 3. emelet",22705174,4
+303,Campleaders     Hungary     Közvetítő     és Szolgáltató Kft.,1051,Budapest,Vigyázó Ferenc utca 4.III.em. 1.,"1050 Budapest, Vigyázó Ferenc utca 4. III. em. 1.",13611167,4.7
+304,KiTion Bt.,1088,Budapest,Krúdy Gyula u. 2. fszt. 1.,"1088 Budapest, Krúdy Gyula u. 2. fszt. 1.",20578424,0
+305,JOB MOTIVE Kft.,1135,Budapest,Csata u. 19. B. ép. 2. em. 2.,"1135 Budapest, Csata u. 19. B. ép. 2. em. 2.",22778606,4.2
+306,Tamasiné Rozsovits Edit,1163,Budapest,Gordonka utca 23.,"1163 Budapest, Gordonka utca 23.",68751414,0
+307,PRO         MATURITATE         Közérdekű Nyugdíjas Szövetkezet,1013,Budapest,Pauler u. 11. 3. em.,"1013 Budapest, Pauler u. 11. III. em.",26220428,0
+308,Polaris Management Consulting Kft.,1054,Budapest,Alkotmány utca 16. I/5.,"1054 Budapest, Alkotmány utca 16. I/5.",13705358,4.2
+309,New HR -Land Hungary Kft.,1141,Budapest,Komócsy u. 5.,"1141 Budapest, Komócsy u. 5.",22701565,4.6
+310,Main Partners Hungary Kft.,1037,Budapest,Szépvölgyi út 141. fszt.,"1037 Budapest,Szépvölgyi út 141. fszt.",26530796,4
+311,Csehi Attila,1183,Budapest,Thököly út 9/B. fsz.7.,"1183 Budapest, Thököly út 9/B.fsz.7.",73073538,0
+313,Zöllei Katalin Mária,1112,Budapest,Brassó út 35. 1/2.,"1112 Budapest, Brassó út 35. 1/2.",69453786,4
+315,Viet-Work Kft.,1024,Budapest,Keleti Károly utca 48.,"2337 Délegyháza, Robinson park 18.",25446887,0
+316,Globe-Job Team Kft.,1191,Budapest,Üllői út.206.B.ép.II.lpház.IV.em. 419.,"1191 Budapest, Üllői út.206.B.ép.II.lpház.IV.em. 419.",26395832,5
+317,TalentStack Kft.,1119,Budapest,Petzvál József u. 44.,"1119 Budapest,Petzvál József u. 44.",26561251,0
+318,B2B Service Kft.,1068,Budapest,Dózsa György út 94. 1. em. 2/A,"1068 Budapest, Dózsa György út 94. 1. em. 2/A",25987456,0
+319,ShortList Kft.,1026,Budapest,Bimbó út 127. C. ép. 1.,"1026 Budapest, Bimbó út 127. C. ép. 1.",26562568,3.8
+320,HPS WORK Kft.,1125,Budapest,Zsolna u. 5. II. em. 3.,"1054 Budapest, Hold u. 21. 4. em.",13425001,4.6
+321,People Concept Tanácsadó Kft.,1111,Budapest,,"1111 Budapest, Kende u. 11.",26086644,0
+322,ARSIS         GLOBAL         CONSULTING Tanácsadó Kft.,1013,Budapest,Döbrentei u. 11. 2. em. 1.,"1116 Budapest, Kalotaszeg u. 11. Fsz. 2.",13683674,5
+323,Didik László,1141,Budapest,Szugló utca 82.,"3530 Miskolc, Uitz Béla  utca 5.2.em. 3.",69401624,0
+324,IMEUS Kft.,1136,Budapest,Hollán Ernő utca 16. 4. em. 4.,"1136 Budapest, Hollán Ernő utca 16. 4. em. 4.",26667773,4.2
+325,Kaméleon Verde Kft.,1077,Budapest,Wesselényi utca 66. fszt. 1.,"1191 Budapest, Kossuth Téri piac Üzletház 1. em. 11. (HRSZ: 16301/8/A/29)",26658029,0
+326,ProAktív           Közérdekű           Nyugdíjas Szövetkezet,1146,Budapest,Hungária krt. 140-144.,"1146 Budapest, Hungária krt. 140-144.",26149253,5
+327,Baranyi Viktória,1119,Budapest,Hadak útja 61/B,"1119 Budapest, Hadak útja 61/B",68284378,0
+328,Magyar  Könyvvizsgálói  Kamara  Oktatási Központ Kft.,1063,Budapest,Szinyei Merse utca 8.,"1063 Budapest, Szinyei Merse utca 8.",11891019,4.1
+329,DiaWork Consulting Kft.,1039,Budapest,Ásó u. 8.,"1039 Budapest, Ásó u. 8.",26294274,0
+330,Trinspire     Informatikai     Szolgáltató     és Tanácsadó Kft.,1138,Budapest,Madarász Viktor u. 47-49.,"1138 Budapest, Madarász Viktor u. 47-49",13204699,4.8
+331,BPION Services Kft.,1139,Budapest,Váci út 99. II. emelet,"1139 Budapest, Váci út 99. II. em.",26193616,5
+332,OneJob Pro Kft.,1083,Budapest,Szigony u. 2. 2. em. 3.,"1083 Budapest, Szigony u. 2. 2. em. 3.",26713087,0
+333,MagiCom   Kereskedelmi   és   Szolgáltató Kft.,1102,Budapest,Szent László tér 20.,"1102 Budapest, Szent László tér 20.",12641477,5
+334,Aplomb Zrt.,1027,Budapest,Horvát u. 14-24. 4. em.,"1115 Budapest, Bartók Béla út 152/H.",25702194,4.2
+335,Dr. Lenhoffer Anita,1077,Budapest,Bethlen Gábor utca 3.2.em.22.,"1077 Budapest, Bethlen Gábor utca 3.2. em.22.",69967997,0
+336,Ex Ante Tanácsadó Iroda Kft.,1025,Budapest,Vérhalom utca 33/A,"1025 Budapest, Vérhalom utca 33/A",12951501,0
+337,Recruby Hungary Kft.,1147,Budapest,Huszt u. 7. 1. em. 4.,"1147 Budapest, Huszt u. 7. 1. em. 4.",26780331,3
+338,Amrop    Kohlmann    &    Young    Vezetői Tanácsadó Kft.,1022,Budapest,Eszter u. 6/B,"1022 Budapest, Eszter utca 6/B",11911588,0
+339,BOGLÁRTI-AMONRA Bt.,1239,Budapest,Ráckeve u. 28.,"1239 Budapest, Ráckeve u.28.",24972930,0
+340,Workant Kft.,1149,Budapest,Várna u. 28. I. em. 8.,"1149 Budapest, Várna u. 28. I. em. 8.",26768551,3.8
+341,Allegis Global Solutions Kft.,1123,Budapest,Alkotás u. 17-19. 3. em.,"House of Business Roosevelt Irodaház 1051 Budapest, Széchenyi István tér 7-8.",26357292,0
+342,ACCACE Hungary Kft.,1132,Budapest,Váci út 30. 6. emelet,"1132 Budapest, Váci út 30. 6. emelet",12158100,3.8
+343,Filiwork Kft.,1011,Budapest,Szilágyi Dezső tér 1. 2. em.,"1011 Budapest, Szilágyi Dezső tér 1. 2. em.",26343914,3
+344,iTeaming-Hungary Kft.,1051,Budapest,Széchenyi István tér 7-8/C I. emelet,"1051 Budapest, Széchenyi István tér 7-8./C I. emelet",25986479,5
+345,Service Flow Munkaerő Kölcsönző Kft.,1134,Budapest,Tüzér u. 39.,"1134 Budapest, Tüzér u. 39.",27082052,3.6
+346,Domini Cani Oktatási Szolgáltató Kft.,1037,Budapest,Táborhegyi lépcső 13.,"1035 Budapest, Vihar u. 8.",13702719,0
+347,YNGA Consulting Kft.,1111,Budapest,Budafoki út 45. 6/22.,"1111 Budapest, Budafoki út 45. 6/22.",26624743,4.8
+348,Otto Workforce Hungary Kft.,1062,Budapest,Székely Bertalan u. 18.,"1062 Budapest, Székely Bertalan u. 18.",22927109,0
+349,Pápai Bernadett,1192,Budapest,Határ út 6. fszt/2.,"1192 Budapest, Határ út 6. fszt/2.",68536637,0
+350,BetterMore Consulting Kft.,1054,Budapest,Szabadság tér 7. Bank Center,"1054 Budapest, Szabadság tér 7. Bank Center",24797032,5
+351,Manczur Beáta Andrea,1015,Budapest,Szabó Ilonka u. 65-69. A ép. 1/6.,"1015 Budapest, Szabó Ilonka u. 65-69. A ép. 1/6.",55781844,0
+352,Tóth Imre,1061,Budapest,Anker köz 2-4.,"1061 Budapest, Anker köz 2-4.",66701602,4.9
+353,FP Invest Trade Kft.,1062,Budapest,Aradi u. 8.,"1062 Budapest, Aradi u. 8.",13200884,0
+354,Nova Human Resources Kft.,1095,Budapest,Soroksári út 30-34.  Haller Gardens Irodaház E lépcsőház 5. emelet,"1095 Budapest, Soroksári út 30- 34.  Haller Gardens Irodaház E lépcsőház 5. emelet",27284601,5
+355,Arsboni Kft.,1052,Budapest,Aranykéz utca 2. félemelet 3.,"1052 Budapest, Aranykéz utca 2. félemelet 3.",25584314,5
+356,GreFin Magyarország Kft.,1098,Budapest,Távíró u. 17. 2.lh.2. em. 10. ajtó,"1098 Budapest, Táívíró u. 17. 2lh. 2. em. 10. ajtó",27317323,0
+357,Császár Andrea,1153,Budapest,Eötvös utca 135/B,"1153 Budapest, Eötvös utca 135/B",55602255,0
+358,MTB-TECH Kft,1188,Budapest,Dózsa György u. 37.,"1188 Budapest, Dózsa Gyögy u. 37.",14102617,4.9
+359,HEITEC   Hungary   Mérnöki   Megoldások Kft.,1117,Budapest,Budafoki út 56.,"1117 Budapest, Budafoki út 56.",26124607,5
+360,Med-Caring4U Kft.,1164,Budapest,Vágás u. 1.,"1164 Budapest, Vágás u. 1.",27062504,0
+361,Pensum Group Nyrt.,1066,Budapest,Mozsár u. 16.,"1066 Budapest, Mozsár u. 16.",26364102,3.8
+362,3rdGEN Tanácsadó és Szolgáltató Zrt.,1007,Budapest-Margitszige,Ensana Grand Hotel Margitsziget IV. em. 11.,Ensana Grand Hotel Margitsziget IV. em. 11.,27279212,0
+363,Vision Recruitment Kft.,1125,Budapest,Kikelet u. 50.,"1054 Budapest, Bajcsy Zsilinszky út 48. II. em.",24362025,4.9
+364,C&SS       Cleanforte       Szolgáltató       és Kereskedelmi Kft.,1108,Budapest,Sibrik Miklós u. 79/105.,"1108 Budapest, Sibrik Miklós u. 79/105.",26522816,0
+365,prescreenIT Személyzeti és Tanácsadó Kft.,1034,Budapest,Timár u. 20.,"1034 Budapest, Timár u. 20. 3. em.",27339220,5
+366,ENTERWORKS Humán Erőforrás Kft.,1132,Budapest,Váci út 30. VI. em.,"1051 Budapest, Széchenyi István tér 7-8.",25005679,0
+367,Állás-Pont 2000 Kft.,7622,Pécs,Liszt F. u. 10.,,13364377-2-02,3.7
+368,Mediflexible Bt,7761,Kozármisleny,Orgona u. 10.,,20095527-2-02,0
+369,Fonavita Nonprofit Kft.,7627,Pécs,Hársfa u. 4.,"7100 Szekszárd, Szent László u. 19.",22347985-2-02,0
+370,HR-Rent Kft.,7743,Romonya,Béke u. 51.,"7622 Pécs, Somogyi Béla u. 2.",13496074-2-02,4.5
+371,Access Recruitment Személyzeti Tanácsadó Iroda Kft.,7370,Sásd,Fáy András u. 14.,"1061 Budapest, Andrássy út 10.",23284630-2-02,0
+372,Szorgos Kezek 2011 Kft.,7759,Lánycsók,Kossuth L. u. 84/B.,"7700 Mohács, Táncsics M. u. 4.",23692491-2-02,0
+373,BC Marketing & Personnel Consulting Kft.,7621,Pécs,Megye u. 7/2.,"7621 Pécs, Megye u. 7/2. fszt. 2..",23586444-2-02,0
+374,Flex Time Resort Kft.,7626,Pécs,Koller u. 7.,,24830478-2-02,4.6
+375,Webon Consulting Kft.,7300,Komló,Alkotmány u. 7. I/5.,,23059469-2-02,4
+376,Secure Invest Hungary Pénzügyi és Szolgáltató Kft.,7751,Szederkény,Bajcsy-Zs. u. 37.,,22631383-2-02,0
+377,Jobcapital Kft.,7622,Pécs,Bajcsy-Zs. u. 2/1.,"1126 Budapest, Brassai Sámuel u. 8.",25060496-2-02,5
+378,"BSX Gyártó, Szolgáltató és Kereskedelmi Kft.",7300,Komló,Anna akna u. 1/J.,,10436851-2-02,0
+379,Special Pécs Fogyatékosokért Alapítvány,7623,Pécs,Kandó Kálmán u. 5.,"7624 Pécs, Köztársaság tér 5.",18275289-1-02,0
+380,HelixLab Szolgáltató Kft.,7623,Pécs,Tüzér utca 13. I. emelet 6.,,26220387-2-02,5
+381,Cedarwood Consulting Kft.,7815,Harkány,Rózsa utca 31.,,26360562-2-02,0
+382,MAVASZK Szolgáltató Bt.,7636,Pécs,Derékréti út 3. 4. emelet 15.,,26324704-2-02,0
+383,Bertus Barna ev.,7300,Komló,Május 1. utca 5. 3. emelet 13.,,68154799-2-41,2.8
+384,Trenkwalder Személyzeti és Szolgáltató Kft.,1132,Budapest,Váci utca 22-24.,"7686 Pécs, Király utca 76. I/9.",,3.6
+385,Pannon-Work Személyzeti Szolgáltató Kft.,1114,Budapest,Bartók Béla út 15/D. II/18.,"7622 Pécs, Szabadság utca 22.",,4.8
+386,Hill International Kft.,1027,Budapest,Szász Károly u. 2-4.,"7621 Pécs, Goldmark u. 1.",,4.1
+387,HRCV Személyzeti Szolgáltató Kft.,1117,Budapest,Móricz Zsigmond krt. 14. 4. em. 1.,"7624 Pécs, Klimó György utca 21/B.",,3
+389,Útkereső Egyesület,6000,Kecskemét,Malom köz 1/b,"6000 Kecskemét, Dellő u. 1.",18358683-1-03,4
+391,BKM Kereskedelmi és Iparkamara,6000,Kecskemét,Árpád krt. 4.,,18345007-2-03,4.7
+392,Get Europa Humán Tanácsadó és Szolgáltató Kft.,6500,Baja,Duna u. 10-12. 10. ház II.em. 9.,,14298570-2-03,0
+393,"Bács-Híd Ipari, Gyártó, Szolgáltató és Kereskedelmi Kft.",6000,Kecskemét,Kőhíd u. 30-32. fszt. 2.,,14927496-2-03,0
+394,Lízing-Autó Kft,6000,Kecskemét,Pásthy Károly u. 6.,,13889997-2-03,5
+395,IB Controll Kft.,6000,Kecskemét,Katona J. tér 18. II/209-211.,,23539198-2-03,4.3
+396,BUTSCH Kft.,6000,Kecskemét,Szolnoki út 23.,,22916776-2-03,4.2
+397,Csonka Ferenc,6000,Kecskemét,Sajó u. 20.,,67980899-1-23,4.5
+398,Csesztanovits Anna,6500,Baja,Hun u. 17. fszt 1/a.,,68779290-1-23,0
+399,Hryou  Szolgáltató Kft.,6300,Kalocsa,Szent István király út 70/A.,,24361756-2-03,0
+400,Visa Kft.,6000,Kecskemét,Vágó u. 21. 2/9.,,27279236-2-03,2.3
+401,Burai Béla,6449,Mélykút,Jánoshalmai út 32.,"6449 Mélykút, Rákóczi u. 7.",55371885-1-23,0
+402,Békéscsabai Civil Szervezetek Szövetsége,5600,Békéscsaba,Árpád sor 2/5.,,18383427-1-04,0
+403,ALFA KISOSZ Érdekvédő és Képző Egyesület,5600,Békéscsaba,Dr. Becsey O. u. 4/1.,,19056982-2-04,0
+404,Béthel Alapítvány,5600,Békéscsaba,Dr. Becsey O. u. 2.,"5600 Békéscsaba, Aulich u. 6. 5630 Békés, Piac tér 3.",18386877-1-04,4.3
+405,Mécses Szolgáló Közösség Egyesülete,5650,Mezőberény,Petőfi S. u. 54.,"5650 Mezőberény, Árpád u. 5.",18382828-1-04,5
+406,JOB TRANS CONSULTING Kereskedelmi és Szolgáltató Kft.,2724,Újlengyel,Petőfi Sándor u. 48.,"5600 Békéscsaba, Bartók Béla út 64.",26093327-2-13,4.2
+410,Borsodi Tranzit Foglalkoztatási  Kh. Nonpr.Kft.,3600,Ózd,Jászi O. u. 3.,"Putnok, Rákóczi u. 2.;",18426777-2-05,0
+411,BB Professional Humánszolgáltató Kereskedelmi Kft.,3524,Miskolc,Hajós A. u. 23.,"Miskolc,Arany János tér 1",12787397-2-05,0
+412,"""Szimbiózis"" A Harmónikus Együtt-Létért Alapítvány",3527,Miskolc,Augusztus 20. út 12.,,18432930-1-05,4
+413,Tisza Work Humánszolgáltató és Tanácsadó Kft.,3580,Tiszaújváros,Szent I. u. 13.,,13080349-2-05,0
+414,"HÍD Kultúrák, Korosztályok, Közösségek Között Egyesület",3525,Miskolc,Rákóczi u. 12. 3/311,,18431465-1-05,0
+415,Kapcsolat.Kihívás Alapítvány,3525,Miskolc,Rákóczi u. 12.,,18425219-1-05,0
+416,Újra Dolgozom Programok Orsz. Szövetsége,3530,Miskolc,Rákóczi u.12.,,18835807-1-16,0
+417,Innováció és Haladás Egyesület,3980,Sátoraljaújhely,Kossuth u. 2.,"Sátoraljaújhely, Kazinczy u.7. iroda",18412004-1-05,0
+418,Önálló Másság Életminőség Fejl. Alapítvány.,3526,Miskolc,Váltó u. 45.,"3530  Miskolc, Arany János u. 11- 13.",19331351-1-05,4
+419,EASTJOB Személyzeti Tanácsadó Bt.,3531,Miskolc,Győri kapu 66. 4/3.,"3526 Miskolc, Régiposta u. 16.",21278251-2-05,3.8
+420,"ALFA-HUMAN Ügyviteli, Szolgáltató Kft.",3580,Tiszaújváros,Szent I. u. 13.,,14545683-2-05,0
+421,TECHNOTERV Technológiai Tervező Bt.,3525,Miskolc,Déryné u. 4. 1/1.,,21258198-3-05,5
+422,"""RENT-A-MEN"" Vállalkozásszervező, Ker- i és Szolgáltató Kft.",3700,Kazincbarcika,Zemplény u. 1. fsz.1.,-,12584376-2-05,1
+423,Hunflex Tanácsadó Kft.,3519,Miskolc,Brassói u. 13.,"3530 Miskolc, Arany János u 11- 13 , Arany Corvin Üzletház I. emelet (1/127",23114678-2-05,0
+424,Personal Partner Nemzetközi Munkaerőkölcsönző Kft.,3526,Miskolc,Szentpéteri kapu. 15-19.,,23302107-2-05,4.6
+425,HUMAN EXISTENCE Személyzeti Szolg. Kft.,3530,Miskolc,Arany János tér 1. mfsz. 18.,,23594496-2-05,1
+426,Miskolc Holding Önkorm. Vagyonkez. Zrt.,3530,Miskolc,Hunyadi János út 5.,3525 Miskolc József A. u. 53.,13778749-2-05,4.3
+427,Smart Jobs Kft.,3525,Miskolc,Kis-Hunyad u. 9. II.em.,,14355073-2-05,0
+428,PRIMAJOB Kft.,3530,Miskolc,Széchenyi u. 26. I. em.,,25140275-2-05,3
+429,My HR Team Szeméyzeti Szolgáltató Kft.,3530,Miskolc,Széchenyi I. út 54. fszt/3.,,25755855-2-05,0
+430,INNOCENTER Nonprofit Kft.,3515,Miskolc,Egyetem út 7.,,21490066-2-05,0
+431,CodeCool Kft.,3525,Miskolc,Régiposta u. 9.,,25076587-2-05,5
+432,EVOLUTION CONSULTING Képzési és Tanácsadó Kft.,3531,Miskolc,Báthory I. u. 12.,,14020991-2-05,4.8
+433,MiREND-Sec Miskolc Rendjéért Vagyonvédelmi Kft.,3531,Miskolc,Győri kapu 27/b.,,24667447-2-05,5
+434,ACTIVE HR Consulting Humánerőforrás Szolgáltató Bt.,3535,Miskolc,Tátra u. 25. I/2.,,25954700-1-05,0
+435,Fox &Wolf HR Solutions Kft.,3937,Komlóska,Rákóczi F. u. 121.,"1051Budapest, Széchenyi I. tér 7- 8.",25982932-2-05,0
+436,Professional Swiss Works Kft.,3530,Miskolc,Avasalja u. 20.,"3529  Miskolc, Avasalja u. 20.",25999581-2-05,0
+437,Harmadik Kor Közérdekű Nyugdíjas Szövetkezet,3529,Miskolc,Aulich L. u. 16.,"3530  Miskolc, Arany János tér 11-13..",25998281-2-05,0
+438,SRS Personeel Hungary Tanácsadó és Szolg. Kft.,3532,Miskolc,Tamási Áron u. 1.,,26133674-2-05,0
+439,IMO Hungária MS Ipari Szerelő Kft.,3700,Kazincbarcika,Vámos Ilona u. 1.,,13405584-2-05,4.3
+440,INTERN Kereskedelmi és Szolgáltató Kft.,3527,Miskolc,Vásárhelyi P. u. 6.,,11075954-2-05,0
+441,NEW HR GLOBAL - Management Munkaközvevítő Zrt.,3530,Miskolc,Görgey A. u. 5.,,26538512-2-05,4.6
+442,Pető Vivien e.v.,3564,Hernádnémeti,Vörösmarty M. u. 35.,,69322279-1-25,4.9
+443,Unique Talent Kereskedelmi és Szolgáltató Kft.,3937,Komlóska,Rákóczi F. út 121.,"4031 Debrecen, Harsona u. 61.",24361866-2-05,0
+444,UNIVERSITAS-SZEGED Szolgáltató Nonprofit Közhasznú Kft.,6722,Szeged,Ady tér 10.,,18457782-2-06,0
+445,Produkteam Kft.,6722,Szeged,Vitéz utca 20.,,11099042-2-06,4.7
+446,SZITI Kulturális és Mentálhigiénés Egyesület,6720,Szeged,Dózsa György utca 5.,,19082174-1-06,4.7
+447,"Biztos Kész Munkaerő-közvetítő, Szolgáltató és Kereskedelmi Kft.",6722,Szeged,Attila utca 3.,,14943524-2-06,3.3
+448,Szegedi SZEFO Zrt.,6724,Szeged,Tavasz utca 2.,,11090036-2-06,3.8
+449,Kreatív Formák Alapítvány,6726,Szeged,Léda utca 8.,"6728 Szeged, Napos út 16.",18478406-1-06,0
+450,QUAMI Személyzeti Tanácsadó Kft.,6726,Szeged,Rahói utca 19.,"6721 Szeged, Csongrádi sgt. 3. fszt. 1.",13114615-2-06,4
+451,ALFA-PYLON Tanácsadó ás Szolgáltató Kft.,6728,Szeged,Hídverő utca 96.,,12775918-2-06,0
+452,WM CREDITOR Kft.,6725,Szeged,Felhő utca 8. I/2.,,25924813-2-06,3.3
+453,Megapolisz Work Kft.,6722,Szeged,Gutenberg utca 25-27.,,25979057-2-06,0
+454,EPM SYSTEMS Kft.,6722,Szeged,Bolyai János utca 11.,,14919293-2-06,0
+455,Tófalvi Géza egyéni vállalkozó,6757,Szeged,Zátony utca 34.,,69301414-1-26,0
+456,Vida János egyéni vállalkozó  -  ÚJ!!,6726,Szeged,Rahói utca 19.,"6721 Szeged, Csongrádi sgt. 3. fszt. 1.",71978389-1-26,0
+458,WHC Recruitment Kft.,8900,Zalaegerszeg,Ady u. 2.,"6722 Szeged, Honvéd tér 7.",21568208-2-20,4
+459,A-Credit 2000 Tanácsadó és Szolgáltató Kft.,8000,Székesfehérvár,Zsolnai út 57.,"8000 Szfvár, Budai út 9-11.",11604608-2-07,0
+460,Pannonjob Humán Szolgáltató és Tanácsadó Kft. (+ kölcsönző),8000,Székesfehérvár,Berényi út 72-100.,,11102481-2-07,1
+461,AKVAMARIN HR Tanácsadó Kereskedelmi és Szolgáltató Kft.,8000,Székesfehérvár,Piac tér 28-30. I/2.,"1023 Budapest, Árpád fejedelem útja 26-28.",13310969-2-07,5
+462,Humán Navigátor Tanácsadó és Szolgáltató Kft. (+ kölcsönző),8000,Székesfehérvár,Szörényi u. 89.,"8000 Szfvár, Gyümölcs u. 26.",12712784-2-07,5
+463,TRADE INVEST CONSULTING Kereskedelmi és Szolgáltató Bt.,2400,Dunaújváros,Petőfi liget 4.,,21044476-1-07,0
+464,Possum 2007. Tanácsadó és Szolgáltató Bt.,8000,Székesfehérvár,Szamos u. 27.,"8000 Székesfehérvár, Petőfi u. 1. fsz. 1.",22393498-1-07,0
+465,HUMANITY-ALBA Kft.,8000,Székesfehérvár,Budai út 14.,,24364539-2-07,0
+466,Actions Solutions Humán Szolgáltató Kft.,8000,Székesfehérvár,Tompa Mihály u. 45.,,25080171-1-07,1
+467,INNOSOC Kereskedelmi és Szolgáltató Kft.,8000,Székesfehérvár,Lomnici utca 76.,,25030183-2-07,4.9
+468,Drivers at work Kft.,8051,Sárkeresztes,Kölcsey u. 31.,,25291625-2-07,3.7
+469,Talentuno Technologies Zrt.,8060,Mór,Kert u. 18.,"8000 Székesfehérvár, Távírda u. 2/A.",25063293-2-07,5
+470,V&V FEMZOL Kft.,8056,Bakonycsernye,Rákóczi út 122.,"8056 Bakonycsernye, Rózsa utca 137.",24788924-2-07,5
+471,PannonDiák Iskolaszövetkezet,8000,Székesfehérvár,Berényi út 72-100.,"1095 Budapest, Soroksári út 48.",24124962-2-07,5
+472,G&P Quality Management Szolgáltató Kft.,8060,Mór,Vértes u. 2/A,,13742722-2-07,5
+473,Dunamenti Regionális Népfőiskola Közhasznú Egyesület,2400,Dunaújváros,Jókai u. 19,,19098076-1-07,0
+474,Magyar Termeléstámogatási Kft. (+kölcsönző),8143,Sárszentmihály,Vörös hadsereg u. 104/4,"8000 Székesfehérvár, Babér u. 1",23473665-2-07,0
+475,"""sk-soft"" Számítástechnikai és Kereskedelmi Bt.",8000,Székesfehérvár,Kisteleki u. 8,,22057804-2-07,3
+476,OPUS EURÓPA Kft. + (kölcsönző),8000,Székesfehérvár,Bátky Zsigmond u. 3.,,25550021-2-07,5
+477,ATTSO Bt.,8000,Székesfehérvár,Ányos Pál u. 1.,,26167235-1-07,0
+478,Tomee &Tomi Kereskedelmi és Szolgáltató Kft.,8066,Pusztavám,Táncsics u. 15.,,25507559-2-07,0
+479,Dusnoki-Tóth Tímea ev.,8000,Székesfehérvár,Budai út 14.,,68975159-2-27,0
+480,UHR Partners Kft.,8000,Székesfehérvár,Máriavölgy út 46.,,26360603-2-07,4.9
+481,Trenkwalder HR Solution Kft. (kölcsönző),8097,Nadap,Rákóczi út,,26551692-2-07,1
+482,Trenkwalder Leasing Kft. (kölcsönző),8097,Nadap,Rákóczi út,,26551757-2-07,1
+483,HUMUSZ Egyesület,2400,Dunaújváros,Vasmű út 41.,,18902141-1-07,4.7
+484,INTEGRITY Kft.,8000,Székesfehérvár,Gyetvai u. 6.,,11115139-2-07,4.3
+485,Talentis Consulting Zrt.,8086,Felcsút,Fő u. 65.,"2053 Herceghalom, Zsámbéki u. 16.",26211066-2-07,3.9
+486,Skillbandit Kft.,8000,Székesfehérvár,Prohászka u. 28.,"1117 Budapest, Neumann János u. 1/a",25420986-2-07,0
+487,Zsiska Zsófia ev.,8097,Nadap,Barackos utca 18.,,55555218-1-27,0
+488,Elite HR & IT Solutions Kft.,8000,Székesfehérvár,Gáz utca 3. 2/7.,"8000 Székesfehérvár, Móricz Zsigmond utca 18.",27301586-2-07,0
+489,DANUBE HRT. Kft.,8043,Iszkaszentgyörgy,Márvány kert 44.,,26219239-2-07,0
+490,Digital Service Group Kft.,8000,Székesfehérvár,Prohászka u. 28.,"1117 Budapest, Neumann János u. 1/a (Infopark A. épület)",14697443-2-07,0
+491,Kulikné Schneider Mónika ev.,8000,Székesfehérvár,Széchenyi u. 29.9/4.,"8000 Székesfehérvár, Bakony utca 4.",55930189-1-27,0
+492,JobArena Humán Kft.,9022,Győr,Czuczor G. utca 26. IV. emelet 4.,"9022 Győr, Czuczor G. u. 26. 4/ 404.",234881995-2-08,0
+493,RAION Szolgáltató Kft.,9082,Nyúl,Táncsics M. u. 147/A.,,14030048-2-08,0
+494,Árvavölgyi Béláné,9400,Sopron,Várkerület 17.,,46745590-3-28,5
+495,Inter-Personnel Kft.,9012,Győr,Zsellér u. 14.,"9024 Győr, Kálvária u. 55.",13487722-2-08,0
+496,Strawo Job Kft. (Job Consulting Kft.jogutódja),9024,Győr,Bartók B. u. 7.,,14443787-2-08,0
+497,Szt. Cirill és Method Alapítvány,9025,Győr,Kossuth L. u. 63.,"9025 Győr, Kossuth L. u. 65-67.",18525728-2-08,3.9
+498,AutoVision Magyarország Kft.,9027,Győr,Hűtőház u. 25.,,28395371-2-42,4.3
+499,Gafour Bt.,9300,Csorna,Wesselényi u. 13.,"9028 Győr, Vörössipkás út 1.",22208433-2-08,0
+500,RCP Vermietung Kft.,99024021,Győr,Hunyadi u. 14.,,23686166-2-08,4.6
+501,MAREK Kft.,9022,Győr,Batthyány u. 06. Sz,,25007839-2-08,5
+502,TalentREcruit Kft.,9027,Győr,Csörgőfa sor 6.,"9022 Győr, Rákóczi F.u.22.",25343760-2-08,0
+503,Transfer International Staff Kft.,9200,Mosonmagyaróvár,Erzsébet tér 11.,,25364350-2-08,3.5
+504,Munka Mindenkinek Szociális Szövetkezet,9111,Tényő,Győri út 22.,,25729388-2-08,4.9
+505,ORIGO-SÁNTA HUMÁN Munkaerő Kölcsönző és Közvetítő Kft.,9400,Sopron,Győri út 32.,,14447932-2-08,4.2
+506,Insomnia Production Kft.,9081,Győrújbarát,Komlóvölgy u. 39.,,14500479-2-008,5
+507,Nagy-Németh Helga,9326,Szil,Árpád u. 40.,,68544397-2-28,0
+508,Csenteri-Dénes Ildikó ev.,9400,Sopron,Levendula utca 5.,,68805180-1-28,0
+509,Varga Árpád ev.,9022,Győr,Vámbéri Ármin u. 47. 2/2.,"22 Győr, Móricz Zs. Rakpart 6-8. f",67427079-128,4.7
+510,Megoldás Menedzsment Kft.,9082,Nyúl,Levendula u. 13.,"8600 Siófok, Szűcs u. 2-4.",26340894-2-08,0
+511,Property Lease Kft.,9026,Győr,Víztükör u. 17/A 3/26.,,26257666-2-08,1
+512,Zajcev Vaszilij Vaszilijevics ev.,9200,Mosonmagyaróvár,Kormos I. ltp. 20/B 4/1. ajtó,,69216686-2-28,4.4
+513,Yourjob Kft.,9200,Mosonmagyaróvár,Borsika u. 6.,,25803903-2-08,0
+514,Hámori András ev,9029,Győr,Csemete u. 29.,,66758707-1-28,3.5
+515,Au-pair Hungary Kft.,9027,Győr,Kölcsey u. 8. fszt. 2.,,14186431-2-41,1
+516,Moson HR Munkaerőkölcsönző Iroda Kft.,9163,Fehértó,Zrínyi u. 36.,"Mosonmagyaróvár, Gabona rakpa",25291560-2-08,0
+517,VHV Work Kft.,9200,Mosonmagyaróvár,Kormos ltp. 20/B 4. em. 1.,,26729264-2-08,5
+518,HSA HUMAN SERVICE AGENCY Kft.,4024,Debrecen,Batthyány u. 12-1. fszt. 1.,"4024 Debrecen, Batthyány u. 12- 1. fsz. 1.",11982348-2-09,3.7
+519,Joker-Karrier Iskolaszövetkezet.,4174,Bihartorda,Kossuth út 43.,"4174 Bihartorda, Kossuth út 43.",14097032-2-09,2.6
+520,Lépéselőny Közhasznú Egyesület,4025,Debrecen,Csap u. 36.,4025 Debrecen Csap u.36,18565133-2-09,5
+521,Charlie Works Kft.,4024,Debrecen,Piac u. 58.,"4024 Debrecen, Piac u. 58.",24788058-2-09,0
+522,Fehér Bot Alapítvány,4087,Hajdúdorog,Fogadó u. 3-5.,"4025 Debrecen, Postakert u. 2.",18549816-1-09,5
+523,Munkaerőpiacon Maradás Egyesület,4025,Debrecen,Széchenyi u. 48.,"4025 Debrecen, Széchenyi u. 48.",18997769-2-09,5
+524,HSA Recruitment Kft.,4025,Debrecen,Széchenyi u. 48.,"4025 Debrecen, Széchenyi u. 48.",24977461-2-09,3.7
+527,Szolgáltató és Innovációs Nonprofit Korlátolt Felelősségű Társaság,4032,Debrecen,Tarján utca 77.,"4032 Debrecen, Tarján u. 72. sz.",14577228-2-09,4.6
+528,Jurányi Gergely ev.,4030,Debrecen,Áchim András u. 42,"4030 Debrecen, Áchim András u. 42.",69471232-2-29,0
+529,Bartha László ev.,4030,Debrecen,Berta u. 13.,"4030 Debrecen, Berta u. 13.",69608546-1-29,0
+530,Nasa-Project Kft.,4143,Vekerd,Petőfi u. 23,"4143 Vekerd, Petőfi u. 23.",23061769-2-09,0
+531,Szerepi Anna Erika,4211,Ebes,Horváth tanya 5.,"4032 Debrecen, Komlóssy út 28/3.",67854772-1-29,4.3
+532,Kreatív Formula Kft,4033,Debrecen,Petneházy u. 30.,"4034 Debrecen, Vágóhíd u. 18. 2/213.",27338322-1-09,4.6
+533,OK-TAT-60 Kft.,3000,Hatvan,Tanács u. 9.,,,4.8
+534,Bright Solution Consulting Szervezetfejl. Tanácsadó Kft.,3200,Gyöngyös,Határ u. 7/1.,"2000 Szentendre, Barackos köz 4. 1/1.",,5
+535,IT-Nav Hungary Kft.,3300,Eger,Hatvani Kapu tér 8. 3/21,,,4.5
+536,Kovács László e.v.,3326,Ostoros,Rózsa u. 25.,,,0
+537,Blue Colar 2019. Kft.,3327,Novaj,Deák f. u.30.,"3300 Eger, Szorényi u. 1. , 1 em. 3.",,0
+542,T-HR Üzletviteli és Tanácsadó Kft.,2800,Tatabánya,Szent Borbála tér 6. I.em.,,25727537-2-11,5
+543,INTER CONTAKT Magán- Munkaközvetítő és Szolgáltató Kft.,2852,"Kecskéd,",Fő utca 49.,,13473918-2-11,0
+544,JOBINT Személyzeti Tanácsadó és Szolg. Kft.,2500,Tokod,Hársfa u. 11.,,13725459-2-11,3
+545,HUMAN SIDE Személyzeti Tanácsadó KFT.,2800,Tatabánya,Sárberki ltp. 707. 2/1.,,13885883-2-11,5
+546,HIRE-ONE Személyzeti Tanácsadó KFT.,2890,Tata,Május 1 út 21/B. 1. em. 10.,,14054758-2-11,4.1
+547,ACE Service Szolgáltató Kft.,2800,Tatabánya,Dankó Pista u. 3.,"2837 Vértesszőlős, Határ út 014/38. Hrsz.",14424467-2-11,3
+548,R-KRAFT Szolgáltató Kft.,2500,Esztergom,Irinyi J. u. 26. fszt. 1.,,23489237-2-11,4.3
+549,Géniusz Plusz Oktatási Kft.,2500,Esztergom,Kiss J. u. 82.,,14343106-2-11,5
+550,HUNBUILDING Építőipari Kft.,2800,Tatabánya,Szende Lajos u. 1/C.  fsz. 1.,"2800 Tatabánya, Szende Lajos u. 1/D.  fszt. 1.",24084110-2-11,0
+551,WELDMONT Metalltechnik Kft.,2500,Esztergom,Pöltenberg u. 17.,,14934368-2-11,4.4
+552,PILLÉR Ált. Építőipari és Szolg. Kft.,2500,Esztergom,Kölcsey Ferenc utca 4/C. 1. emelet 2. ajtó,"2500 Esztergom, Aradi tér 3. (tevékenység csak itt!)",10338870-1-11,4.6
+553,LIVITA-DORTA Kereskedelmi és Szolgáltató Kft.,2500,Esztergom,Vörösmarty utca 13.,,14388406-2-11,4.2
+554,MKH Service Kft.,2510,Dorog,Kálvária u.13.,"2500 Esztergom, Móricz Zsigmond u. 19.",25150731-2-11,0
+555,KPS Solution Kft.,2870,Kisbér,Szabadság u. 31/A,,25401006-2-11,3.7
+556,FN WORK SERVICE Kft,2800,Tatabánya,Szende L. u. 1. A lph. fsz. 8.,,23704169-2-11,0
+557,GEMINI HR Szolgáltató Kft.,2800,Tatabánya,Réti utca 162. fsz. 5.,,24669841-2-11,4.6
+558,Relabor Foglalkozási Rehabilitációs Kft.,2500,Esztergom,Dobogókői út 31/A.,,10260573-2-11,5
+559,HunBau Tunneling Kft.,2800,Tatabánya,Szende L. u. 1/C. fsz. 1.,"2800 Tatabánya, Szende Lajos u. 1/D. fszt. 1.",25537123-2-11,4.2
+560,OPTIMUM MUNKAERŐ- GAZDÁLKODÁS Zrt.,2840,Oroszlány,Rákóczi F. út 21/A.,"2800 Tatabánya, Erdész u. 8.",14285561-2-11,0
+561,Z-SOLUTION Szolgáltató és Kereskedelmi Kft.,2890,Tata,Május 1. út 9. fsz. 1.,,27038424-2-11,0
+562,NARVIK Int. Kft.,2900,Komárom,Mártírok útja 97.,,14443189-2-11,0
+563,Humán Partner Szolgáltató Kft.,2840,Oroszlány,Rákóczi F. út 1358/13. hrsz.,,25549351-2-11,5
+564,Z & C Solution Iroda Kft.,2890,Tata,Május 1 út 9. fsz. 1.,,26621654-1-11,1.8
+565,Transleads Szolgáltató Kft.,2800,Tatabánya,Szent Borbála tér 6. A. ép. I.em.,,24757249-2-11,0
+566,MAX POWER Hungary Kft.,2800,Tatabánya,Teleki László u. 11.,,26633985-2-11,0
+567,Munkalehetőség Mindenkinek Kft.,2800,Tatabánya,Fő tér 20.,,26381190-2-11,4.7
+568,Fair Solutions Könyvelő és Szolgáltató Kft.,2900,Komárom,Klapka György út 44/A. 1/7.,,22993380-1-11,0
+569,Jó-Dobronya Beatrix Rozália e.v.,2500,Esztergom,Kölcsey Ferenc utca 4/C. 1. emelet 2. ajtó,"2500 Esztergom, Aradi tér 3. (tevékenység csak itt!)",69947597-1-31,0
+570,Manpowerland Hungary Kft.,2900,Komárom,Báthori István u. 33.,,27316315-2-11,0
+571,Gondoskodás Közhasznú Egyesület,2660,Balassagyarmat,Kossuth út 1.,"2660 Balassagyarmat, Kossuth út 1. fsz. 2.",18639728-1-12,0
+572,BONAFORT  Kereskedelmi és Szolgáltató Kft,2626,Nagymaros,Tégla u. 6.,,12526697-2-13,0
+573,MÁTRIX Diák-2000 Vállalkozásszervező Iskolai Szövetkezet,2750,Nagykőrös,Rákóczi út 43.,"6000 Kecskemét, Kőhíd u. 36.",11791919-2-13,3
+574,E-Help Consulting Kft,2724,Újlengyel,Nyári Pál u. 52.,"1106 Budapest, Fehér u. 1.",12922914-2-13,3
+575,Civil Érték Egyesület,2225,Üllő,Pesti u. 124.,,,0
+576,Performan Group Kft.,2030,Érd,Bádogos u. 52.,"1126 Budapest, Derkovits utca 10.",13110752-2-13,0
+577,Napra Forgó Rehabilitációs Szolgáltató Nonprofit Közhasznú Kft.,2030,Érd,Budai út 7/B.,,20636571-2-13,4
+578,Starjobs Magyarország Kft.,2724,Újlengyel,Kossuth L. u. 138.,,12642870-2-13,0
+579,HU-BA 2001 Kft.,2724,Újlengyel,Ady Endre utca 13.,"2370 Dabas, Széchenyi u. 3.",12709610-2-13,0
+580,PBS International Kft.,2000,Szentendre,Sztaravodai út 43. E. ép. 15.,"1036 Budapest, Nagyszombat u. 4. III/13.",12937293-2-13,0
+581,Schönherz Iskolaszövetkezet,2131,Göd,Jávorka Sándor u. 18.,"1115 Budapest, Bartók B. u. 152/h. fsz. 9.",12047244-2-13,4.3
+582,FOCUS SELECTION Kereskedelmi és Szolgáltató Bt.,2096,Üröm,Cinege utca 29.,,22131670-2-13,4.8
+583,MUNKA-ERŐ Kölcsönző és Közvetítő Kft.,2724,Újlengyel,Ady Endre u. 11.,,13465863-2-13,4.4
+584,"GAK Oktató, Kutató és Innovációs Nonprofit Közhasznú Kft.",2100,Gödöllő,Páter Károly út 1.,,18671290-2-13,0
+585,VIOLET Consulting Tanácsadó és Szolgáltató Kft.,2151,Fót,Somlói u. 47.,"1097 Budapest, Vaskapu utca 10- 14. D. ép. fsz. 9.",14822250-2-13,5
+586,Plurimus Üzleti Tanácsadó Kft.,2112,Veresegyház,Szivárvány utca 21.,,22915050-2-13,0
+587,EU-JOBS Munkaerőközvetítő és Szolgáltató Kft.,2724,Újlengyel,Határ út 12.,"1055 Budapest, Honvéd utca 38.",13567116-2-13,4.2
+588,Realwork-HR Kft.,2072,Zsámbék,Hegyalja utca 4.,,23719596-2-13,0
+589,Proinno Kft.,2040,Budaörs,Károly király utca 77/3.,,13782285-2-13,0
+590,Dr. Onody Consulting Kft.,2083,Solymár,Móricz Zsigmond utca 6.,,23937998-2-13,0
+591,DELEGO Személyzeti Szolgáltató Kft.,2161,Csomád,Cseresznyés utca 1/a.,"1065 Budapest, Bajcsy- Zsilinszky út 51.",23869354-2-13,4
+592,LAK-ART '98 Szolgáltató és Ipari Kft.,2724,Újlengyel,Ady Endre utca 13.,"1089 Budapest, Elnök utca 1. 3. emelet",12794953-2-13,1
+593,Energy Power Értékesítési Kft.,2143,Kistarcsa,Lőcsei utca 23.,"székhely+ 1033 Budapest, Reményi Ede utca 1-3.",14930845-2-13,5
+594,HR-ES Team Munkaközvetítő Kft.,2085,Pilisvörösvár,Báthory utca 48.,,23349753-2-13,0
+595,Spotless Garden Security Kft.,2636,Tésa,Petőfi utca 16.,"2091 Etyek, Szőlőskert utca 27.",24188142-2-13,0
+596,Nagy-Virág Enikő,2100,Gödöllő,Klapka György út 14.,,67093915-1-33,4.4
+597,Csetneki Viktor,2730,Albertirsa,Hősök útja 3.,,67222362-1-33,
+598,Avatao.com Innovative Learning Kft.,2051,Biatorbágy,Juhász Gyula út 9/2.,"2051 Biatorbágy, Juhász Gyula út 9/2. 9089 Lázi, Zrínyi Miklós utca 2.",24992615-2-13,2.5
+599,SALIO Személyzeti Tanácsadó Kft.,2084,Pilisszentiván,Rét utca 1.,"1055 Budapest, Szent István körút 1. 3. emelet 5.",22705875-2-13,5
+600,Workstreet HR Solutions Kft.,2724,Újlengyel,Petőfi Sándor utca 48.,"1037 Budapest, Jeles utca 194. 2724 Újlengyel, Petőfi S. utca 48.",25389573-2-13,0
+601,TalentSpot Karrier Tanácsadó és Informatikai Szolgáltató kft.,2030,Érd,Nyárfa utca 35.,"2030 Érd, Nyárfa utca 35. 1061 Budapest, Anker köz 2-4.",25503311-2-13,0
+602,Darányi Gertrúd,2330,Dunaharaszti,Nádor utca 57.,"1091 Budapest, Üllői út 25.",67521348-1-33,0
+603,"""AIM TO PLEASE"" Tanácsadó és Szolgáltató Kft.",2724,Újlengyel,Határ út 12.,"1052 Budapest, Párizsi utca 1. 2. em. 9/A.",25442467-2-13,0
+604,Riz-mix Kft.,2367,Újhartyán,Szőlősor utca 19.,"2370 Dabas, Huba vezér útja 12.",24251853-1-13,0
+605,Imploi Consulting Bt.,2143,Kistarcsa,Bartók Béla utca 22/c.,,25870848-2-13,5
+606,VESTA Facility Management Kft.,2724,Újlengyel,Petőfi Sándor utca 48.,"2536 Nyergesújfalu, Széchenyi István utca 2/4.",24136255-2-13,4.2
+607,BIRT GROUP kereskedelmi és Szolgáltató Kft.,2615,Csővár,Madách utca 1.,"2840 Oroszlány, Táncsics Mihály utca 4. fszt. 1.",13858786-2-13,5
+608,DreamJo.bs Zrt.,2092,Budakeszi,Erkel Ferenc utca 96.,"1015 Budapest, Toldy Ferenc utca 80. A. fszt.",25836099-2-13,5
+609,Ontime Manpower Kft.,2724,Újlengyel,Dózsa György utca 1.,,24247410-2-13,2
+610,M.E.N.T.O.N. Jobs Kft.,2724,Újlengyel,Dózsa György utca 11.,"1095 Budapest, Soroksári út 48.",23469136-2-13,5
+611,Talent4U Consulting Bt.,2040,Budaörs,Ébner György köz 4. fszt. 02.,"2040 Budaörs, Ébner György köz 4. fszt. 02.",25995745-1-13,0
+612,Pannon-Work Diákmunkaszervező Kft.,2161,Csomád,Akácos utca 15.,,14288911-2-13,0
+614,HR Capital Kft.,2724,Újlengyel,József Attila u. 1/a.,"5126 Jászfényszaru, Szabadság tér 1.",25480409-2-13,1
+615,ENERSENSE Magyarország Szolgáltató Kft.,2097,Pilisborosjenő,Fürdő köz 1.,"1092 Budapest, Ráday utca 37.",13618975-2-13,0
+616,Ivilena Informatikai és Szolgáltató Kft.,2000,Szentendre,Berek utca 2.,,25436651-2-13,4.3
+617,ST GLOBAL Management Kft.,2131,Göd,Sellő utca 25.,"2132 Göd, Sellő utca 25.",11741691-2-13,5
+618,Pensum Group Szolgáltató Zrt.,2161,Csomád,Kossuth utca 103.,"1066 Budapest, Mozsár utca 16.",24122135-2-13,3.8
+619,Future Steps Consulting Kft.,2112,Veresegyház,Sportföld utca 60.,,25306925-2-13,0
+620,BelserDent Fogászati Kft.,2083,Solymár,Turista utca 4.,"1028 Budapest, Hidegkúti út 293.",25353848-2-13,0
+621,Sáfár-Vincze Alexandra,2049,Diósd,Búzavirág utca 7/A.,,68914941-1-33,0
+622,IBF Személyzeti Tanácsadó Kft.,2040,Budaörs,Puskás Tivadar út 3. II/2.,,12440300-2-13,4.2
+623,GyógyszerészTár Kft.,2011,Budakalász,Szentendrei út 3-5. B ép. 7.,,26242796-2-13,0
+624,YMMO-ONE Szolgáltató Kft.,2724,Újlengyel,Ady Endre utca 41.,,13858243-2-13,2.5
+625,Optimal-Force Kereskedelmi és Szolgáltató Kft.,2724,Újlengyel,Határ út 12.,"1011 Budapest, Halász utca 2. fszt. 5.",25092581-2-13,0
+626,ActiJob Munkaközvetítő és Tanácsadó Kft.,2040,Budaörs,Baross utca 89.,,26300032-2-13,3.7
+627,Takács Róbert Krisztián,2337,Délegyháza,Robinson park 18.,,69115839-1-33,0
+628,C4W Kft.,2011,Budakalász,Szalonka utca 10.,,26118994-2-13,0
+629,DANUBE HRT Kft.,2600,Vác,Naszály utca 18.,,26219239-2-42,0
+630,T.A.G. Services Kft.,2724,Újlengyel,Petőfi Sándor utca 48.,,25421334-2-13,0
+631,MELÓ-DIÁK Universitas Szolgáltató Iskolaszövetkezet,2724,Újlengyel,Kossuth utca 136.,,11915214-2-13,3.2
+632,VIET JOB Kft.,2220,Vecsés,Berzsenyi utca 35.,,26569864-2-13,4.2
+633,FUTURE TALENTS CONSULTING Kft.,2030,Érd,Tetőfedő utca 81.,"1117 Budapest, Baranyai tér 1. 5. emelet 4.",26569857-2-13,5
+634,Bulk Cargo Kft.,2120,Dunakeszi,Kadosa Pál utca 3. 1. emelet 5.,,26560061-2-13,5
+635,Sanitas Consulting Kft.,2120,Dunakeszi,Kisfaludy utca 5.,,26081546-2-13,0
+636,Sternné Jarabin Edina Etelka,2040,Budaörs,Rezeda utca 50.,,69414145-1-33,3.9
+637,PLUSJOB SOLUTION Kft.,2636,Tésa,Petőfi utca 34.,"2660 Balassagyarmat, Jókai utca 18.",24880291-2-13,0
+638,DC Handel Kft.,2013,Pomáz,Panoráma út 7.,,25308329-2-13,0
+639,CARGO GATE Kft.,2220,Vecsés,Üllői út 809/A.,,22937854-2-13,0
+640,Retail Express Szolgáltató Kft.,2310,Szigetszentmiklós,Szivárvány utca 2.,"1054 Budapest, Hold utca 21. 4. emelet",14023750-2-13,3.8
+641,BS Human Kft.,2461,Tárnok,Ötház puszta 1/A.,,26565860-2-13,5
+642,Westworks Személyzeti Tanácsadó Kft.,2100,Gödöllő,Dózsa György út 13.,,26674913-2-13,4.2
+643,PERSONAL HOLDING Kft.,2724,Újlengyel,Ady Endre utca 13.,,14512717-2-13,0
+644,Pro HR Humán Szolgáltató és Tanácsadó Kft.,2013,Pomáz,Molnár utca 1.,,13754730-2-13,1
+645,Korpás & Partners Kft.,2120,Dunakeszi,Csomádi utca 4.,,26762517-2-13,0
+646,AgileIT Tanácsadó és Szolgáltató Kft.,2096,Üröm,Kakukkfű utca 9/a.,,26765723-2-13,0
+647,Soós Csaba,2133,Sződliget,Árpád utca 64.,,69857939-1-33,0
+648,Kolibri Manpower Kft.,2370,Dabas,Szabadság út 3.,,26737735-2-13,0
+649,ADAPT Munkaerő-kölcsönző és Szolgáltató Kft.,2615,Csővár,Kinizsi út 12.,"5100 Jászberény, Rákóczi út 2/A. 2615 Csővár, Kinizsi út 12.",13424907-2-13,0
+650,Italent Services Szolgáltató Kft.,2090,Remeteszőlős,Keszeg utca 10.,"1037 Budapest, Montevideo utca 2/B.",24082864-2-13,0
+651,Cool Jobs Humánerőforrás Fejlesztési és Tanácsadó Kft.,2161,Csomád,Kossuth Lajos út 103.,,27058329-2-13,4.6
+652,MyBridge Kft.,2724,Újlengyel,Ady Endre utca 41.,"1148 Budapest, Fogarasi út 2-6.",13011835-2-13,0
+653,Darida Virág Éva,2142,Nagytarcsa,Ibolya utca 4.,,69289833-1-33,4.6
+654,Go-Human Kft.,2161,Csomád,Táncsics út 9.,,23545698-2-13,1
+655,MELÓ-DIÁK Országos Diákvállalkozásszervező Kft.,2724,Újlengyel,Kossuth utca 138.,,10486870-2-13,0
+656,SKITUS Industries Kft.,2040,Budaörs,Építők útja 2-4.,,25571721-2-13,3.3
+657,SKITUS Project Engineering Kft.,2040,Budaörs,Építők útja 2-4.,,24212779-2-13,3.3
+658,Manrey Kft.,2151,Fót,Zsigmond király utca 10. B/2.,"1047 Budapest, Csányi László utca 34.",23470222-2-13,5
+659,Káron Pakk Kft.,2345,Apaj,Toldi Miklós utca 20.,,25286858-2-13,0
+660,LZ-TRANS WORK Kft.,2161,Csomád,Táncsics út 9.,,25474947-2-13,0
+661,Mohácsi László,2310,Szigetszentmiklós,Horgony utca 7.,"1136 Budapest, Pannónia utca 17/B. VII. emelet 2.",68397937-1-33,4.5
+662,AtlaszPartner Digitális Munkaportál Kft.,2615,Csővár,Madách út 1.,"1134 Budapest, Angyalföldi út 5/B.",27278589-2-13,5
+663,CON-WORK Szolgáltató és Kereskedelmi Iskolaszövetkezet,2072,Zsámbék,Piac köz 8.,"1075 Budapest, Rumbach Sebestyén utca 3. fszt. 9.",12662641-2-13,4.5
+664,"Nagyné Dr. Szücs Gyöngyi és társa ""GYÓGYÁSZATI"" Bt.",2112,Veresegyház,Százszorszép utca 7/B.,"2112 Veresegyház, Liszt Ferenc utca 2/B.",20648372-1-13,0
+665,"""VIAPAN"" Dologidő Kft",7542,Kisbajom,Kossuth L. u. 111.,,12637993-2-14,3.9
+666,Szövetség a Polgárokért Alapitvány,7400,Kaposvár,Petőfi tér 4.,,18776773-1-14,0
+667,Magyar Vöröskereszt Somogy Megyei Szervezete,7400,Kaposvár,Szent Imre u. 8,,19190972-2-14,1.6
+668,Job Hills Bt.,7400,Kaposvár,Szent Imre u. 41.,"7400 Kaposvár, Petőfi S. .u. 13. 3/5.",24169475-2-14,3
+669,Illés László Istvánné,8624,Balatonszárszó,Rákóczi u. 9.,,75058153-1-34,0
+670,Jobhotel Bt.,8624,Balatonszárszó,Rákóczi u. 9.,,25871306-1-14,3.3
+671,Fairsupport Kft.,8640,Fonyód,Blaha L. u. 6.,,24169475-2-14,0
+672,Horváthné dr. Illés Mónika ev,7400,Kaposvár,Gém u.2.,,69687654-1-51,0
+673,Alternatíva Komplex Szolgáltató Egyesület,7400,Kaposvár,Herman Ottó u.4.,"7570 Barcs, Sétatér 1.",18521092-1-14,4.4
+674,Regionális Érdekvédelmi Alapítvány,4400,Nyíregyháza,Rákóczi utca 18-20.,,18796362-1-15,0
+675,Pro-Team Rehabilitációs Közhasznú Nonprofit Kft.,4400,Nyíregyháza,Lujza u. 4.,"4400 Nyíregyháza, Bujtos utca 27/D fszt, 6000 Kecskemét, Bem utca 14/B, 5700 Gyula Schrer",22305004-2-15,4.1
+676,Int-Solution Kft.,4400,Nyíregyháza,Kossuth tér 6-7.,"1072 Budapest, Rákóczi út 42. 5. em.4029 Debrecen Csapó u. 42. 3. em. 3-4.",14582071-2-15,3.3
+677,Humán-Net,4400,Nyíregyháza,Semmelweis út 24.,,14920190-2-15,4.8
+678,Duck of Process Kft.,4440,Tiszavasvári,Csontváry utca 7.,,25753200-2-15,0
+682,Senior Work Service Kft.,4024,Debrecen,Piac u. 58. sz. 1. em. 29. ajtó,"4400 Nyíregyháza, Nagy Imre tér 1.",26087559-2-09,4.2
+683,STUDENT WORK SERVICE Kft.,4032,Debrecen,Komlóssy u. 45-47. 1/1.,"4401 Nyíregyháza, Kossuth tér 8. sz., 4600 Kisvárda, Szent László utca 43.",24381510-2-09,3.8
+684,Trenkwalder Recruitment Kft.,1132,Budapest,Váci út 22-24.,"4400 Nyíregyháza, Dózsa György u. 3.",26552112-2-41,3.3
+685,Jobtain Kft.,1094,Budapest,Tűzoltó u. 72. fsz ü-1,4400 Nyíregyháza Vasvári Pál u. 1. fsz.16.,13227236-2-43,3
+686,"JNKSZ Megye ""Esély"" Szociális Közalapítvány",5000,Szolnok,Kossuth út 2.,"5000 Szolnok, Szapáry út 23.",19221805-2-16,0
+687,"""Esélyt a hátrányos helyzetű emb-nek"" Alapítvány",5000,Szolnok,Csokonai út 71.,,18837610-1-16,0
+688,"""IMPULZUS"" Pályakezdők Munkaszocializációjával Foglalkozó Szakemberek Egyesülete",5000,Szolnok,Baross út 41. G.ép. fszt.,"5200 Törökszentmiklós, Almásy út 10.",18827996-1-16,5
+689,PRIMER PATINA Kft.,5000,Szolnok,Telep út 13.,,24360023-2-16,5
+690,HR ADVISE Kft.,5000,Szolnok,Konstantin út 59. I/1.,,11685962-2-16,0
+691,VAPISA Kft.,5126,Jászfényszaru,Albert Einstein út 1.,,12432884-2-16,0
+692,Human Resource President Kft.,5000,Szolnok,Gerbera út 4. B. ép. II/1.,,26671996-2-16,4.7
+693,BKM-CONSULTING Bt.,5008,Szolnok,Dió út 10.,,25985306-2-16,4.2
+694,Kék Madár Alapítvány,7100,Szekszárd,Bartina u. 12/a.,"7100 Szekszárd, Bartina u. 16/b.",18856174-2-17,4.8
+695,Újra Dolgozni Tolnában Egyesület,7100,Szekszárd,Szent István tér 10.,,18865976-1-17,0
+696,Human Matrix Személyzeti Tanácsadó Kft.,9700,Szombathely,Fürdő u. 4.,"9700 Szombathely, Fürdő u. 4.",12602056-2-18,4.4
+697,Trummer Személyzeti Szolgáltató Kft.,9700,Szombathely,Zanati út 38,"9700 Szombathely, Zanati út 38.",12655834-2-18,5
+698,Fogyatékkal Élőket és Hajléktalanokat Ellátó Közhasznú Nonprofit Kft.,9700,Szombathely,Huszár út 116.,"9700 Szombathely, 11-es Huszár út 116.",20185109-2-18,0
+699,Emberfejlesztés Oktató és Tanácsadó Kft.,9700,Szombathely,Fő tér 3-5. 2/1.,"9700 Szombathely, Fő tér 3-5. 2/1.",23036956-2-18,0
+700,MIELL Jobline Kft.,9800,Vasvár,0368/2. hrsz (Mártírok u. 54.),"9800 Vasvár, Mártírok u. 54.",25823736-2-18,4.3
+701,S-Group Közép-európai Biztonsági és Védelmi Zrt.,9600,Sárvár,Batthyány u. 63.,"1016 Budapest, Hegyalja út 7-13.",23490103-2-18,0
+702,Gerlach Lilien Ildikó,9723,Gyöngyösfalu,Arany János u. 2.,"9723 Gyöngyösfalu, Arany János u. 2.",67624128-1-38,0
+703,Szele Katalin Andrea,9700,Szombathely,Stomfeld A. u. 59. 2/7.,"9700 Szombathely, Stomfeld A. u. 59. 2/7.",69567391-1-38,0
+704,MAN AT WORK Humánszolgáltató és Személyzeti Tanácsadó Kft.,8272,Óbudavár,Fő u. 31.,,,3
+705,Dr.Kiss Consulting  Vezetői Tanácsadó Kft.,8200,Veszprém,Kossuth u. 21.,,,4.7
+706,Életet Segítő Alapítvány,8200,Veszprém,Lóczy L. u. 42/A.,"8200 Veszprém., Kossuth u. 10. IV. em. 401-402.,414.",,4.7
+707,AURUM Oktatási Központ Szolgáltató Kft.,8400,Ajka,Avar u. 23.,,,0
+708,Dr. Kiss Lajos egyéni vállalkozó,8200,Veszprém,Kossuth u. 21. C. lh. 3/12.,,,5
+709,Creative Soul Kft.,8230,Balatonfüred,Noszlopy G. u. 16. A. ép. 2/5.,"8200 Veszprém,.Alsóerdő u. 4/F.",,0
+710,Greenwork Munkaerő-közvetítő és Kölcsönző Kft.,8200,Veszprém,Házgyári út 16.,"8000 Székesfehérvár, Jancsár köz 16.",,3.4
+711,"""R+S Group Hungary"" Kft.",8200,Veszprém,Budapest út 89.,,,0
+712,Karisztl Szilvia,8409,Úrkút,Kilencház u. 8.,,,0
+713,"""LORKA"" Kereskedő és Vendéglátó Kft.",8100,Várpalota,Péti út 16.,,,0
+714,"BA-TOR 2008 Építőipari, Kereskedelmi és Szolgáltató Kft.",8230,Balatonfüred,Balaton u. 28. A. ép.,,,0
+715,ESPYou.com Kft.,8409,Úrkút,Kilencház u. 8.,,,0
+716,Németh és Cseke Kereskedelmi és Szolgáltató Kft.,8500,Pápa,Bástya u. 14. 2.  em. 5. ajtó,"8500 Pápa, Külső-Veszprémi út 25.",,4.3
+717,Imploi Consulting Betéti Társaság,8200,Veszprém,Madách I. utca 37.,,,0
+718,IBD Quality Szolgűltató Kft.,8400,Ajka,Határ u. 19.,,26591227-2-19,0
+719,Személyzet Kölcsönző és Közvetítő Kft.,8272,Óbudavár,Fő u. 31.,,23817773-2-19,0
+720,Gondoskodás Alapítvány,8999,Zalalövő,Szabadság tér 2.,,,3
+721,WHC Személyzeti Szolgáltat Kft.,8912,Nagypáli,030/2.,,,0
+722,Nagykanizsa és Környéke Fogl.Szoc. És Közm. KHT.,8800,Nagykanizsa,Petőfi u. 5.,,,0
+723,Magyar Vöröskereszt Zm-i Szervezete,8900,Zalaegerszeg,Dísz tér 7.,"8790 Zalaszentgrót, Dózsa u. 9.",,3.6
+724,Kontakt Humán Szolgáltató Nonprofit Kft.,8900,Zalaegerszeg,Kossuth u. 47-51.,,,0
+725,Humán-Társ Személyzeti Kft.,8800,Nagykanizsa,Törökvári u. 57.,,,3
+726,WHC Personal Kft.,8900,Zalaegerszeg,Ady u. 2.,"9700 Szombathely, Szelestey u. 13.",,4
+727,Carpe Diem Hungarian Operarius Kft.,8900,Zalaegerszeg,Budai Nagy A. u. 10.,,,0
+728,Társadalmi Egyesülsek Zala Megyei Szövetsége,8900,Zalaegerszeg,Dísz tér 7.,,,0
+729,WHC Outsourcing Kft.,8912,Nagypáli,Innovációs Ökocentrum 030/2.,,,5
+731,PRATO VERDE KFT.,8932,Gyűrűs,Petőfi u. 2.,"8900 Zalaegerszeg, Ady u. 23.",,4
+732,R&M Konzultációs Tanácsadó Kft.,8900,Zalaegerszeg,Átalszegett u. 23.,"8900 Zalaegerszeg, Átalszegett u. 23.",,5
+733,EU Studies Bt.,8342,Óhíd,Petőfi u. 70.,"8342 Óhíd, Petőfi u. 72.",,0
+734,WHC Employment Kft.,8900,Zalaegerszeg,Ady u. 2.,"1074 Budapest, Rákóczi u. 70.",,4
+735,"A,M. International Personal Service Kft.",8314,Vonyarcvashegy,Berzsenyi u. 18/B.,"8360 Keszthley, Rákóczi tér 20.",,4.6

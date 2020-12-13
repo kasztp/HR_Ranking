@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% block title %}<title>Közvetítők Google Maps Rangsora</title>{% endblock title %}
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <div class="container">
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    {% for message in messages %}
+                        <div class="alert alert-primary alert-dismissible fade show" role="alert">
+                            <span>{{ message }}</span>
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                    {% endfor %}
+                {% endif %}
+            {% endwith %}
+        </div>
+
+            <nav class="nav nav-pills bg-light flex-column flex-sm-row sticky-top pt-1 pb-1">
+                <a class="navbar-brand" href="#">
+                    <img src="https://static.wixstatic.com/media/417934_415944ad02fa413385474c35bea0f0bd%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/417934_415944ad02fa413385474c35bea0f0bd%7Emv2.png" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
+                    Közvetítők Google Maps Rangsora - Beta</a>
+                    <a class="flex-sm-fill text-sm-center nav-link" href="https://www.talentstack.eu/" target="_blank">Powered by: TalentStack</a>
+                <a class="flex-sm-fill text-sm-center nav-link" href="https://www.linkedin.com/in/javadevelopment/" target="_blank">Idea: Ferenc Túri</a>
+                <a class="flex-sm-fill text-sm-center nav-link" href="https://www.linkedin.com/in/peterkaszt/" target="_blank">Coding: Péter Kaszt</a>
+                <a class="flex-sm-fill text-sm-center nav-link" href="https://nfsz.munka.hu/nfsz/document/1/1/5/5/doc_url/KOZVETITOK_orszagos_lista_2020_II_nev.pdf" target="_blank">Data: NFSZ & Google Maps</a>
+            </nav>
+
+        {% block content %}
+        {% endblock %}
+
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        
+        <script>
+        var source = new EventSource("/progress");
+        source.onmessage = function(event) {
+            $('.progress-bar').css('width', event.data+'%').attr('aria-valuenow', event.data);
+            $('.progress-bar-label').text(event.data+'%');
+
+            if(event.data == 100){
+                source.close()
+            }
+        }
+        </script>
+        <script>
+        $(document).ready(function(){
+          $("#myInput").on("keyup", function() {
+            var value = $(this).val().toLowerCase();
+            $("#myTable tr").filter(function() {
+              $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+          });
+        });
+        </script>
+    </body>
+</html>
