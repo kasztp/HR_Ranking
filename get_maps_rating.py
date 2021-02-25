@@ -40,7 +40,8 @@ def get_maps_rating(places):
 def update_maps_rating(places):
     rating = []
     num_ratings = []
-    for name, city, postcode in tqdm(zip(places["Name"], places["Postcode"], places["City"]), total=len(places["Name"])):
+    for name, city, postcode in tqdm(zip(places["Name"], places["Postcode"],
+                                         places["City"]), total=len(places["Name"])):
         query = f"{name} {city} {postcode}"
         try:
             result = gmaps.find_place(input=query, input_type="textquery",
@@ -54,7 +55,7 @@ def update_maps_rating(places):
                 num_ratings.append(0)
         except:
             print("Oops!", sys.exc_info()[0], "occurred.")
-            print(f"Current query: {place}")
+            print(f"Current query: {query}")
             print(f"API response: {result}")
             raise
     places['Rating'] = rating
@@ -63,5 +64,5 @@ def update_maps_rating(places):
     places.to_csv(r'Headhunters_with_Rating.csv', index=False)
 
 
-kozvetito = pd.read_csv("Headhunters_with_Rating.csv")
-update_maps_rating(kozvetito)
+FILENAME = r'Headhunters_with_Rating.csv'
+update_maps_rating(read_previous_data(FILENAME))
