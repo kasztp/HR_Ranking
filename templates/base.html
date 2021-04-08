@@ -46,17 +46,6 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
         
         <script>
-        var source = new EventSource("/progress");
-        source.onmessage = function(event) {
-            $('.progress-bar').css('width', event.data+'%').attr('aria-valuenow', event.data);
-            $('.progress-bar-label').text(event.data+'%');
-
-            if(event.data == 100){
-                source.close()
-            }
-        }
-        </script>
-        <script>
         $(document).ready(function(){
           $("#myInput").on("keyup", function() {
             var value = $(this).val().toLowerCase();
