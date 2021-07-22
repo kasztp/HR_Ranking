@@ -1,4 +1,4 @@
-# HR_Ranking
+# HR_Ranking [![Pylint](https://github.com/kasztp/HR_Ranking/actions/workflows/pylint.yml/badge.svg)](https://github.com/kasztp/HR_Ranking/actions/workflows/pylint.yml)
 
 Ranking of Hungarian registered Recruitment Agencies based on Google Maps Ratings (Idea by Ferenc Túri).
 
